@@ -144,7 +144,7 @@ Every player action must trigger **visual + audio + haptic** response:
 
 ### Progressive Disclosure Schedule
 | Session | New System Revealed |
-|---------|-------------------|
+|---------|--------------------|
 | Run 1 | Movement, attack, dodge, loot pickup |
 | Run 2 | Power-up selection, floor progression |
 | Run 3 | Gold spending, first town upgrade |
