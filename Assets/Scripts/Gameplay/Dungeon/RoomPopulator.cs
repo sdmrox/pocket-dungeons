@@ -18,7 +18,7 @@ namespace PocketDungeons.Gameplay.Dungeon
         [Header("Loot")]
         [SerializeField] private GameObject _goldPrefab;
         [SerializeField] private GameObject _healthPotionPrefab;
-        [SerializeField] [Range(0f, 1f)] private float _lootRoomChance = 0.3f;
+        [SerializeField] private float _lootRoomChance = 0.3f;
 
         public List<EnemySpawnInfo> PopulateRoom(RectInt room, int floorDepth, EnemyData[] availableEnemies)
         {

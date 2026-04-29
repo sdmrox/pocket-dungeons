@@ -86,3 +86,8 @@ desktop.ini
 # Devin / CI artifacts (don't commit)
 # ============================================================
 *.log
+
+# Test build artifacts
+Tests/**/bin/
+Tests/**/obj/
+Tests/**/TestResults/
