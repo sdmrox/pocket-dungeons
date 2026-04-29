@@ -1,0 +1,19 @@
+{
+    "name": "PocketDungeons.UI",
+    "rootNamespace": "PocketDungeons.UI",
+    "references": [
+        "PocketDungeons.Core",
+        "PocketDungeons.Data",
+        "PocketDungeons.Gameplay",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

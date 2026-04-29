@@ -1,0 +1,17 @@
+{
+    "name": "PocketDungeons.Launch",
+    "rootNamespace": "PocketDungeons.Launch",
+    "references": [
+        "PocketDungeons.Core",
+        "PocketDungeons.Analytics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

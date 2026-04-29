@@ -1,0 +1,22 @@
+{
+    "name": "PocketDungeons.ECS",
+    "rootNamespace": "PocketDungeons.ECS",
+    "references": [
+        "PocketDungeons.Core",
+        "Unity.Entities",
+        "Unity.Transforms",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Burst",
+        "Unity.Jobs"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

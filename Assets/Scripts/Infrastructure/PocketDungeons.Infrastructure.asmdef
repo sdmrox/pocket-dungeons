@@ -1,0 +1,17 @@
+{
+    "name": "PocketDungeons.Infrastructure",
+    "rootNamespace": "PocketDungeons.Infrastructure",
+    "references": [
+        "PocketDungeons.Core",
+        "PocketDungeons.Analytics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
