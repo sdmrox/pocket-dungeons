@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00000000000000000000000000000000, type: 3}
+  m_Name: CryptKing
+  m_EditorClassIdentifier: PocketDungeons.Data.EnemyData
+  enemyName: Crypt King
+  enemyType: 8
+  description: The first boss. A cursed monarch wielding dark magic and commanding undead minions.
+  baseHealth: 500
+  baseDamage: 15
+  moveSpeed: 3
+  attackRange: 2
+  attackCooldown: 1.5
+  isBoss: 1
+  healthScalePerFloor: 0.15
+  damageScalePerFloor: 0.1
+  phase2Threshold: 0.6
+  phase3Threshold: 0.3
+  phase1SlashCooldown: 1.5
+  phase2SlashCooldown: 1.2
+  phase3SlashCooldown: 0.8
+  minionSummonCooldown: 8
+  phase3MinionCooldown: 4
+  phase1MinionCount: 2
+  phase3MinionCount: 6
+  xpReward: 100
+  goldDropMin: 50
+  goldDropMax: 100

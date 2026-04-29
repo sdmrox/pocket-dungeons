@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00000000000000000000000000000000, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: PocketDungeons.Data.GameConfig
+  dungeonWidth: 40
+  dungeonHeight: 40
+  minRoomSize: 6
+  corridorWidth: 2
+  maxEnemiesPerRoom: 5
+  bossFloorInterval: 10
+  powerUpChoicesPerFloor: 3
+  goldMagnetRange: 2.5
+  healthPotionHealPercent: 0.25
+  dodgeDuration: 0.3
+  dodgeInvincibilityTime: 0.25
+  iFrameDuration: 0.1
+  screenShakeDuration: 0.15
+  screenShakeIntensity: 0.2
+  hitStopDuration: 0.033
+  critHitStopDuration: 0.066
+  slowMotionDuration: 0.3
+  slowMotionTimeScale: 0.3
+  targetFrameRate: 60
+  maxBuildSizeMB: 150
+  coldStartTimeMax: 2
+  minCrashFreeRate: 0.995
+  maxAdsPerDay: 6
+  adCooldownSeconds: 60
+  battlePassPrice: 4.99
+  battlePassSeasonDays: 42
+  reviewPromptAfterRuns: 10
+  adaptiveDifficultyMin: 0.6
+  adaptiveDifficultyMax: 1.4
+  dailyQuestCount: 3
+  weeklyQuestCount: 3
+  maxPrestigeLevel: 10
+  prestigeBonusPerLevel: 0.05
+  dailyLoginStreakBonus: 0.1
+  dailyLoginCycleDays: 7
