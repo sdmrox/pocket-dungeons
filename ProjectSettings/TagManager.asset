@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player
+  - Enemy
+  - Boss
+  - Loot
+  - PowerUp
+  - Projectile
+  - DungeonExit
+  - Interactable
+  - Hazard
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Loot
+  - Projectile
+  - Environment
+  - VFX
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1000
+    locked: 0
+  - name: Floor
+    uniqueID: 2000
+    locked: 0
+  - name: Walls
+    uniqueID: 3000
+    locked: 0
+  - name: Decorations
+    uniqueID: 4000
+    locked: 0
+  - name: Shadows
+    uniqueID: 4500
+    locked: 0
+  - name: Enemies
+    uniqueID: 5000
+    locked: 0
+  - name: Player
+    uniqueID: 6000
+    locked: 0
+  - name: Loot
+    uniqueID: 7000
+    locked: 0
+  - name: Projectiles
+    uniqueID: 7500
+    locked: 0
+  - name: VFX
+    uniqueID: 8000
+    locked: 0
+  - name: UI_World
+    uniqueID: 9000
+    locked: 0
+  - name: Foreground
+    uniqueID: 10000
+    locked: 0
