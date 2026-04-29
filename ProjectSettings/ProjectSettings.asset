@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  productName: Pocket Dungeons
+  companyName: PocketDungeons
+  defaultScreenWidth: 1080
+  defaultScreenHeight: 1920
+  targetDevice: 1
+  useOnDemandResources: 0
+  accelerometerFrequency: 0
+  defaultInterfaceOrientation: 1
+  allowedAutorotateToPortrait: 1
+  allowedAutorotateToPortraitUpsideDown: 0
+  allowedAutorotateToLandscapeRight: 0
+  allowedAutorotateToLandscapeLeft: 0
+  defaultIsNativeResolution: 1
+  runInBackground: 0
+  iPhoneBundleIdentifier: com.pocketdungeons.game
+  appleDeveloperTeamID:
+  iOSTargetDevice: 0
+  targetIOSVersion: 16.0
+  iOSRequireARKit: 0
+  appleEnableAutomaticSigning: 1
+  metalEditorSupport: 1
+  metalAPIValidation: 1
+  iOSRenderExtraFrameOnPause: 0
+  applicationIdentifier:
+    iOS: com.pocketdungeons.game
+  bundleVersion: 0.1.0
+  buildNumber:
+    iOS: 1
+  apiCompatibilityLevel: 6
+  stripEngineCode: 1
+  scriptingBackend:
+    iOS: 1
+  il2CppCodeGeneration: 1
+  il2CppCompilerConfiguration:
+    iOS: 2
+  managedStrippingLevel:
+    iOS: 1
+  scriptingDefineSymbols:
+    iOS: UNITY_IOS
+  targetFramerate: 60
