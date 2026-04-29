@@ -12,7 +12,7 @@ namespace PocketDungeons.Gameplay.Enemies
     [RequireComponent(typeof(Rigidbody2D))]
     public abstract class BossBase : MonoBehaviour
     {
-        protected enum BossPhase { Intro, Phase1, Phase2, Phase3, Death }
+        public enum BossPhase { Intro, Phase1, Phase2, Phase3, Death }
 
         [Header("Boss Config")]
         [SerializeField] protected int _baseHealth = 500;

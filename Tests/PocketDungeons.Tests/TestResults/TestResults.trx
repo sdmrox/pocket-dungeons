@@ -1,0 +1,872 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="6237e61c-0926-44f5-ad78-b094d719f2fb" name="@devin-box 2026-04-29 02:08:25" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2026-04-29T02:08:25.6051762+00:00" queuing="2026-04-29T02:08:25.6051763+00:00" start="2026-04-29T02:08:24.8706986+00:00" finish="2026-04-29T02:08:25.7100951+00:00" />
+  <TestSettings name="default" id="39611ef6-ee02-469a-b03a-67ccc93c2d80">
+    <Deployment runDeploymentRoot="_devin-box_2026-04-29_02_08_25" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="b418d514-9f92-42c3-bd64-268c70611524" testId="ffef5240-c5bf-3064-640d-3e177bd649df" testName="Event_InactiveAfterEnd" computerName="devin-box" duration="00:00:00.0001520" startTime="2026-04-29T02:08:25.6013995+00:00" endTime="2026-04-29T02:08:25.6015515+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b418d514-9f92-42c3-bd64-268c70611524" />
+    <UnitTestResult executionId="2bf66d1b-b97e-4c18-a378-db06c0f2fabb" testId="0653f516-7e6e-f9ec-77a9-cdaa1c3767ef" testName="MultiplePowerUps_CombineCorrectly" computerName="devin-box" duration="00:00:00.0003710" startTime="2026-04-29T02:08:25.5806245+00:00" endTime="2026-04-29T02:08:25.5809951+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2bf66d1b-b97e-4c18-a378-db06c0f2fabb" />
+    <UnitTestResult executionId="dfb2223b-0294-4907-a0b6-f8dd23fdfd81" testId="c754cfa5-4e38-9a87-dda0-ef53de5f2f71" testName="Pool_DoesNotExceedMax" computerName="devin-box" duration="00:00:00.0001410" startTime="2026-04-29T02:08:25.5749407+00:00" endTime="2026-04-29T02:08:25.5750813+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dfb2223b-0294-4907-a0b6-f8dd23fdfd81" />
+    <UnitTestResult executionId="f8b5fd7f-b1ab-42f5-9f30-1f6f537d0acf" testId="83305606-493c-e074-ecdc-965d65c52bd2" testName="DeepLink_ParsesEventId" computerName="devin-box" duration="00:00:00.0001520" startTime="2026-04-29T02:08:25.5148227+00:00" endTime="2026-04-29T02:08:25.5149745+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f8b5fd7f-b1ab-42f5-9f30-1f6f537d0acf" />
+    <UnitTestResult executionId="14564d15-4328-4333-9454-b1c87f354e6c" testId="a4ce055a-e75d-88ec-bd1c-73ea5c30649d" testName="Mage_HasHighestDamage" computerName="devin-box" duration="00:00:00.0002090" startTime="2026-04-29T02:08:25.5709362+00:00" endTime="2026-04-29T02:08:25.5711454+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14564d15-4328-4333-9454-b1c87f354e6c" />
+    <UnitTestResult executionId="a25c063c-66e7-4977-87a7-72744e10368b" testId="aafd38ba-462d-08d9-d977-1822e4963a26" testName="PowerUpFlow_SelectionToApplication" computerName="devin-box" duration="00:00:00.0001760" startTime="2026-04-29T02:08:25.5904208+00:00" endTime="2026-04-29T02:08:25.5905967+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a25c063c-66e7-4977-87a7-72744e10368b" />
+    <UnitTestResult executionId="3711c94d-8154-4fa2-8de4-a5e2863f5170" testId="65ba7186-015a-b165-df08-d19234c28004" testName="Breadcrumbs_CappedAt50" computerName="devin-box" duration="00:00:00.0002940" startTime="2026-04-29T02:08:25.5649254+00:00" endTime="2026-04-29T02:08:25.5652199+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3711c94d-8154-4fa2-8de4-a5e2863f5170" />
+    <UnitTestResult executionId="4531e2be-c1d3-449b-9e87-0745f44433f5" testId="57ca6444-b6bb-a4ca-986b-6ba56eecdabe" testName="ARPU_CalculatedCorrectly" computerName="devin-box" duration="00:00:00.0001120" startTime="2026-04-29T02:08:25.5889059+00:00" endTime="2026-04-29T02:08:25.5890179+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4531e2be-c1d3-449b-9e87-0745f44433f5" />
+    <UnitTestResult executionId="8cb2148d-e4c9-4c3a-85ea-74a02dd1226a" testId="da7fda26-f179-8803-a267-725ef6248c9e" testName="SynergyBonus_Adds15Percent" computerName="devin-box" duration="00:00:00.0001070" startTime="2026-04-29T02:08:25.5816165+00:00" endTime="2026-04-29T02:08:25.5817235+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8cb2148d-e4c9-4c3a-85ea-74a02dd1226a" />
+    <UnitTestResult executionId="259bc928-899d-4190-8bee-d9f6d8ddeb56" testId="8b0fed7b-c292-7d66-bfe2-23f863e2fd97" testName="BSP_AllLeavesAreWithinBounds" computerName="devin-box" duration="00:00:00.0013060" startTime="2026-04-29T02:08:25.5197792+00:00" endTime="2026-04-29T02:08:25.5210852+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="259bc928-899d-4190-8bee-d9f6d8ddeb56" />
+    <UnitTestResult executionId="6776911f-969d-48ef-aabb-f1c86133f4d7" testId="0fc307e5-6086-bcc8-253c-6f9b77cac75f" testName="Event_ActiveWithinDateRange" computerName="devin-box" duration="00:00:00.0001830" startTime="2026-04-29T02:08:25.6012035+00:00" endTime="2026-04-29T02:08:25.6013859+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6776911f-969d-48ef-aabb-f1c86133f4d7" />
+    <UnitTestResult executionId="19310f07-1c99-4fb4-a9e8-34cf069e8631" testId="65b1b1a2-6fbc-3f32-3ecf-0c99f1626293" testName="CritDamage_IsMultiplied" computerName="devin-box" duration="00:00:00.0001110" startTime="2026-04-29T02:08:25.5629561+00:00" endTime="2026-04-29T02:08:25.5630668+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="19310f07-1c99-4fb4-a9e8-34cf069e8631" />
+    <UnitTestResult executionId="eaaf8dc8-0dd9-4f9c-8fef-d36c27482284" testId="9cbf50a6-5cce-3d3c-98e1-338cbe61e178" testName="Subscription_ActivatesPremium" computerName="devin-box" duration="00:00:00.0001020" startTime="2026-04-29T02:08:25.5722874+00:00" endTime="2026-04-29T02:08:25.5723895+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eaaf8dc8-0dd9-4f9c-8fef-d36c27482284" />
+    <UnitTestResult executionId="bc7508c2-80c7-4e89-9fa2-77737bbbc7a5" testId="d033191b-2eb0-9e3f-0cac-669e60f4fd74" testName="Phase2_TriggersAt60Percent" computerName="devin-box" duration="00:00:00.0001560" startTime="2026-04-29T02:08:25.5193804+00:00" endTime="2026-04-29T02:08:25.5195368+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bc7508c2-80c7-4e89-9fa2-77737bbbc7a5" />
+    <UnitTestResult executionId="fe97fb75-33b5-4516-aeff-15b15c558f84" testId="27a671c9-d37f-8779-00cc-bd7e05061779" testName="UpcomingContent_NotReleasedEarly" computerName="devin-box" duration="00:00:00.0002110" startTime="2026-04-29T02:08:25.5645863+00:00" endTime="2026-04-29T02:08:25.5647976+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fe97fb75-33b5-4516-aeff-15b15c558f84" />
+    <UnitTestResult executionId="fc41c0ce-d4b6-4c51-9c14-1925b8f1a220" testId="31eeff95-c51f-62d8-2624-5aafe6b80859" testName="FPSDrop_DetectedBelow45" computerName="devin-box" duration="00:00:00.0001030" startTime="2026-04-29T02:08:25.5790925+00:00" endTime="2026-04-29T02:08:25.5791958+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fc41c0ce-d4b6-4c51-9c14-1925b8f1a220" />
+    <UnitTestResult executionId="8aa88971-e786-4b59-8392-a7b97bd3e814" testId="6251d405-c247-8bc2-ceee-1c312b1cea9f" testName="DungeonFloorProgression_Integration" computerName="devin-box" duration="00:00:00.0002360" startTime="2026-04-29T02:08:25.5899128+00:00" endTime="2026-04-29T02:08:25.5901488+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8aa88971-e786-4b59-8392-a7b97bd3e814" />
+    <UnitTestResult executionId="92c8ea9f-647e-408f-ac8d-22368f6052d2" testId="80a5e004-ff2c-1a1d-1dbd-ef426c203ff3" testName="CostScalesExponentially" computerName="devin-box" duration="00:00:00.0001480" startTime="2026-04-29T02:08:25.6081569+00:00" endTime="2026-04-29T02:08:25.6083048+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="92c8ea9f-647e-408f-ac8d-22368f6052d2" />
+    <UnitTestResult executionId="82615201-da48-4516-9862-f2615b0bc875" testId="8eaa03a1-0ea3-d6a2-b74d-6ecc2de80c1f" testName="CanPrestige_At50FloorsPerLevel" computerName="devin-box" duration="00:00:00.0000980" startTime="2026-04-29T02:08:25.5819603+00:00" endTime="2026-04-29T02:08:25.5820582+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="82615201-da48-4516-9862-f2615b0bc875" />
+    <UnitTestResult executionId="010dc2f9-acbd-43f4-9360-0240ad4d8f0c" testId="b6643172-4d78-49c2-4c68-eebd7fc01e73" testName="Aggregate_BonusesFromMultipleBuildings" computerName="devin-box" duration="00:00:00.0001250" startTime="2026-04-29T02:08:25.6075367+00:00" endTime="2026-04-29T02:08:25.6076616+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="010dc2f9-acbd-43f4-9360-0240ad4d8f0c" />
+    <UnitTestResult executionId="561a84f0-a46f-4d11-9813-b9220431974c" testId="b21e2969-50f6-36cc-9230-4598c51efd2c" testName="BonusScalesLinearly" computerName="devin-box" duration="00:00:00.0001710" startTime="2026-04-29T02:08:25.6076744+00:00" endTime="2026-04-29T02:08:25.6078456+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="561a84f0-a46f-4d11-9813-b9220431974c" />
+    <UnitTestResult executionId="59e097d5-7ef8-41ea-8f84-123cdbeccdf1" testId="b92f2477-ca62-2280-2a83-343ace3d1c38" testName="Internal_HasAllTestFeatures" computerName="devin-box" duration="00:00:00.0001330" startTime="2026-04-29T02:08:25.5183808+00:00" endTime="2026-04-29T02:08:25.5185134+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="59e097d5-7ef8-41ea-8f84-123cdbeccdf1" />
+    <UnitTestResult executionId="386b528c-a07b-4116-9a62-0a6a59116007" testId="f40eb477-ef95-b365-5d72-3437259c8d48" testName="HealthBar_Color_ChangesAtThreshold" computerName="devin-box" duration="00:00:00.0001910" startTime="2026-04-29T02:08:25.5800440+00:00" endTime="2026-04-29T02:08:25.5802347+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="386b528c-a07b-4116-9a62-0a6a59116007" />
+    <UnitTestResult executionId="afdc1e25-a4de-4d58-8e29-efdb3cdcb35b" testId="1fb0f9ca-7120-b2ae-ee2d-494ead3440d4" testName="CannotUpgrade_InsufficientGold" computerName="devin-box" duration="00:00:00.0001170" startTime="2026-04-29T02:08:25.6078580+00:00" endTime="2026-04-29T02:08:25.6079752+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="afdc1e25-a4de-4d58-8e29-efdb3cdcb35b" />
+    <UnitTestResult executionId="507b677b-6fb3-4fb5-bd34-1c142a8526bd" testId="51a30da0-3e42-d75e-48a0-008759ce7e5d" testName="Register_And_Get_ReturnsService" computerName="devin-box" duration="00:00:00.0008860" startTime="2026-04-29T02:08:25.6057987+00:00" endTime="2026-04-29T02:08:25.6066845+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="507b677b-6fb3-4fb5-bd34-1c142a8526bd" />
+    <UnitTestResult executionId="d7cc2873-5d16-4c52-ac50-5b27ebc0c4bc" testId="b26f94e2-c451-887d-ac29-c1c4cfd1eff1" testName="ScaledEnemyHP_CalculatedCorrectly" computerName="devin-box" duration="00:00:00.0001210" startTime="2026-04-29T02:08:25.5156941+00:00" endTime="2026-04-29T02:08:25.5158155+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d7cc2873-5d16-4c52-ac50-5b27ebc0c4bc" />
+    <UnitTestResult executionId="67c777eb-b86a-4d06-b77a-4ed0468b9c98" testId="a1101da8-6d91-5d97-6ed9-eb5f14b0205d" testName="SessionDuration_Average" computerName="devin-box" duration="00:00:00.0047230" startTime="2026-04-29T02:08:25.5840496+00:00" endTime="2026-04-29T02:08:25.5887721+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="67c777eb-b86a-4d06-b77a-4ed0468b9c98" />
+    <UnitTestResult executionId="4837c5ef-bb44-4788-a0e7-66dd36b1cd99" testId="e696f921-c55c-7544-69c3-ebce4502e53e" testName="CrashFreeRate_Calculated" computerName="devin-box" duration="00:00:00.0001260" startTime="2026-04-29T02:08:25.5652319+00:00" endTime="2026-04-29T02:08:25.5653579+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4837c5ef-bb44-4788-a0e7-66dd36b1cd99" />
+    <UnitTestResult executionId="9c9c17fe-777c-49bd-baa0-1aee640c7685" testId="1867c3fe-7a2b-9bfe-9deb-933297924c04" testName="D30Benchmark_Above8Percent" computerName="devin-box" duration="00:00:00.0000989" startTime="2026-04-29T02:08:25.5832825+00:00" endTime="2026-04-29T02:08:25.5833815+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9c9c17fe-777c-49bd-baa0-1aee640c7685" />
+    <UnitTestResult executionId="27471ada-7f08-48cb-86d0-fc2669116efd" testId="e900e277-45af-b02a-cf16-186b78b40e3b" testName="SaveLoad_RoundTrip" computerName="devin-box" duration="00:00:00.0361750" startTime="2026-04-29T02:08:25.5226141+00:00" endTime="2026-04-29T02:08:25.5587896+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27471ada-7f08-48cb-86d0-fc2669116efd" />
+    <UnitTestResult executionId="4e9820fb-3294-4584-9cd3-f6c994b15381" testId="2f6a7b02-1cda-b1f9-d62c-c50bf0290491" testName="StackedPowerUp_MultipliesCorrectly" computerName="devin-box" duration="00:00:00.0002930" startTime="2026-04-29T02:08:25.5813118+00:00" endTime="2026-04-29T02:08:25.5816047+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4e9820fb-3294-4584-9cd3-f6c994b15381" />
+    <UnitTestResult executionId="ca42ebc7-fb93-4396-be48-130d20a58954" testId="60f22635-3d65-36a8-a1e0-09bfceb22270" testName="DamagePopup_NormalDamage_HasCorrectScale" computerName="devin-box" duration="00:00:00.0001040" startTime="2026-04-29T02:08:25.5630780+00:00" endTime="2026-04-29T02:08:25.5631820+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca42ebc7-fb93-4396-be48-130d20a58954" />
+    <UnitTestResult executionId="e6d20af1-4ef1-437c-965a-0172f2c07395" testId="a9915d26-6af2-8fe0-a2cd-83b781a07797" testName="EnemyHP_ScalesPerFloor" computerName="devin-box" duration="00:00:00.0001110" startTime="2026-04-29T02:08:25.5677839+00:00" endTime="2026-04-29T02:08:25.5678951+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e6d20af1-4ef1-437c-965a-0172f2c07395" />
+    <UnitTestResult executionId="17641d4e-7e4d-420c-8704-c8b242e88ecb" testId="892b5226-6f29-fe6d-219c-01437a158c7e" testName="EnemyCount_ScalesPerFloor_CappedAt15" computerName="devin-box" duration="00:00:00.0002430" startTime="2026-04-29T02:08:25.5673979+00:00" endTime="2026-04-29T02:08:25.5676407+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17641d4e-7e4d-420c-8704-c8b242e88ecb" />
+    <UnitTestResult executionId="d8110500-eac7-4757-befb-2042a132dd84" testId="52d854df-400e-d64f-b496-223e3d0b34af" testName="MaxAdsPerDay_Is6" computerName="devin-box" duration="00:00:00.0004680" startTime="2026-04-29T02:08:25.5073232+00:00" endTime="2026-04-29T02:08:25.5077907+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d8110500-eac7-4757-befb-2042a132dd84" />
+    <UnitTestResult executionId="f969fe3b-90f5-4b65-855b-15ff2910b3b8" testId="21ce5884-6b93-5451-4621-3f2b3bd46484" testName="CritChance_IsWithinBounds" computerName="devin-box" duration="00:00:00.0001350" startTime="2026-04-29T02:08:25.5628094+00:00" endTime="2026-04-29T02:08:25.5629440+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f969fe3b-90f5-4b65-855b-15ff2910b3b8" />
+    <UnitTestResult executionId="75a95b45-9d98-4ea5-8add-24b49030956d" testId="5cab0677-0d45-a3d6-8790-f8f12be6de77" testName="FreeTrack_ClaimableWithoutPremium" computerName="devin-box" duration="00:00:00.0000970" startTime="2026-04-29T02:08:25.5171396+00:00" endTime="2026-04-29T02:08:25.5172369+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="75a95b45-9d98-4ea5-8add-24b49030956d" />
+    <UnitTestResult executionId="ff4a4481-81c7-4b8d-ba2d-dca3e4e9f896" testId="a00d37fa-5268-f82e-1398-7e874c14afbc" testName="Multiplier_ClampedToRange" computerName="devin-box" duration="00:00:00.0001499" startTime="2026-04-29T02:08:25.5669087+00:00" endTime="2026-04-29T02:08:25.5670582+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ff4a4481-81c7-4b8d-ba2d-dca3e4e9f896" />
+    <UnitTestResult executionId="01cd8b4c-042e-4670-924e-b5856f3314fb" testId="05ec2e63-a0d6-5167-b672-be4b339234b3" testName="DodgeCooldown_IsCorrect" computerName="devin-box" duration="00:00:00.0001910" startTime="2026-04-29T02:08:25.5798100+00:00" endTime="2026-04-29T02:08:25.5800006+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="01cd8b4c-042e-4670-924e-b5856f3314fb" />
+    <UnitTestResult executionId="d96c8afe-0e63-4a10-8ff6-3c561ae6a4d7" testId="04717305-318d-9e9e-05ba-d0f64c3d9d0e" testName="IncrementalProgress_Accumulates" computerName="devin-box" duration="00:00:00.0016310" startTime="2026-04-29T02:08:25.4983538+00:00" endTime="2026-04-29T02:08:25.4999844+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d96c8afe-0e63-4a10-8ff6-3c561ae6a4d7" />
+    <UnitTestResult executionId="6739ebf7-c1a1-4080-b3d2-b502f501b368" testId="584a3b2e-91ae-12eb-c924-cc86d8e27c92" testName="BossTime_ConvertedToMillis" computerName="devin-box" duration="00:00:00.0010039" startTime="2026-04-29T02:08:25.5725485+00:00" endTime="2026-04-29T02:08:25.5735525+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6739ebf7-c1a1-4080-b3d2-b502f501b368" />
+    <UnitTestResult executionId="3f86cbf5-d687-4db5-ab1d-1909c6c8864d" testId="79ca12a7-8ca9-3f07-682b-82504d4e06d7" testName="RunCompleted_HasRequiredFields" computerName="devin-box" duration="00:00:00.0001620" startTime="2026-04-29T02:08:25.5145314+00:00" endTime="2026-04-29T02:08:25.5146937+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f86cbf5-d687-4db5-ab1d-1909c6c8864d" />
+    <UnitTestResult executionId="26e6fcf9-57b5-47f4-9ac1-4b1396ecf81a" testId="9cf336ac-b554-75d7-40ed-d258dd049be9" testName="CanUpgrade_SufficientGold" computerName="devin-box" duration="00:00:00.0001560" startTime="2026-04-29T02:08:25.6079878+00:00" endTime="2026-04-29T02:08:25.6081432+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="26e6fcf9-57b5-47f4-9ac1-4b1396ecf81a" />
+    <UnitTestResult executionId="927c1c4f-808f-46fe-8ec5-76cb2f6ae173" testId="69df764b-958d-eb1c-4d4e-70d02e0690a0" testName="EnemyCount_CappedAt15" computerName="devin-box" duration="00:00:00.0001710" startTime="2026-04-29T02:08:25.5153650+00:00" endTime="2026-04-29T02:08:25.5155357+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="927c1c4f-808f-46fe-8ec5-76cb2f6ae173" />
+    <UnitTestResult executionId="dd21f33a-36cc-4ee2-8ac2-4ba485822423" testId="677e7e72-e810-f725-1992-f24f41b70c25" testName="CryptKing_EnrageIncreasesSpeed" computerName="devin-box" duration="00:00:00.0004980" startTime="2026-04-29T02:08:25.5188701+00:00" endTime="2026-04-29T02:08:25.5193680+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dd21f33a-36cc-4ee2-8ac2-4ba485822423" />
+    <UnitTestResult executionId="9faf438b-488a-427b-a519-734df9c2ca75" testId="a70536c2-0f63-ca0a-9098-c44a3c818b24" testName="EventModifiers_Override" computerName="devin-box" duration="00:00:00.0019280" startTime="2026-04-29T02:08:25.6015644+00:00" endTime="2026-04-29T02:08:25.6034925+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9faf438b-488a-427b-a519-734df9c2ca75" />
+    <UnitTestResult executionId="792df36f-92be-42b7-b7e4-cb486db62496" testId="ee93066b-8554-fc38-0a14-c79de984ab31" testName="CompletedSteps_NotRepeated" computerName="devin-box" duration="00:00:00.0001399" startTime="2026-04-29T02:08:25.5770172+00:00" endTime="2026-04-29T02:08:25.5771575+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="792df36f-92be-42b7-b7e4-cb486db62496" />
+    <UnitTestResult executionId="c1c25b9f-9d50-498c-a6d1-12e741538b1e" testId="f56e35e4-c0a0-beab-de20-58e0ab7c3cea" testName="AutoCollect_WithinHalfUnit" computerName="devin-box" duration="00:00:00.0001150" startTime="2026-04-29T02:08:25.5740406+00:00" endTime="2026-04-29T02:08:25.5741558+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c1c25b9f-9d50-498c-a6d1-12e741538b1e" />
+    <UnitTestResult executionId="f0f1440e-a5b9-4e82-ac5a-90d8d560104e" testId="c8cd45c0-b84d-b2d6-e3a8-b5d42bb6ce4a" testName="Get_Unregistered_ReturnsNull" computerName="devin-box" duration="00:00:00.0021059" startTime="2026-04-29T02:08:25.6036771+00:00" endTime="2026-04-29T02:08:25.6057827+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f0f1440e-a5b9-4e82-ac5a-90d8d560104e" />
+    <UnitTestResult executionId="d545021b-17f8-4f4a-abdd-9cfce604384e" testId="3ca60ad6-f627-4501-74ba-52cc704b7d09" testName="Pool_Get_ReducesAvailable" computerName="devin-box" duration="00:00:00.0013070" startTime="2026-04-29T02:08:25.5750929+00:00" endTime="2026-04-29T02:08:25.5764001+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d545021b-17f8-4f4a-abdd-9cfce604384e" />
+    <UnitTestResult executionId="985931dd-ff15-401c-9acf-5c52143cc2d7" testId="a9d8df0f-a3ab-654e-08fb-345ab2dc92ea" testName="CooldownBetweenAds_Is60Seconds" computerName="devin-box" duration="00:00:00.0001100" startTime="2026-04-29T02:08:25.5068887+00:00" endTime="2026-04-29T02:08:25.5069985+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="985931dd-ff15-401c-9acf-5c52143cc2d7" />
+    <UnitTestResult executionId="084a6d9c-868b-475f-8a55-5b64c848b9ea" testId="2f8ed0d5-2fc4-ff2c-4a13-8c3131630d61" testName="Gameplay_To_Death_IsValid" computerName="devin-box" duration="00:00:00.0001240" startTime="2026-04-29T02:08:25.5694186+00:00" endTime="2026-04-29T02:08:25.5695422+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="084a6d9c-868b-475f-8a55-5b64c848b9ea" />
+    <UnitTestResult executionId="7ce2841c-09ae-41d9-a194-e3f263b31a55" testId="05edf9d0-d224-b048-e5b6-ffaea3487f3e" testName="InverseDropRate_HigherDifficultyBetterDrops" computerName="devin-box" duration="00:00:00.0001370" startTime="2026-04-29T02:08:25.5667608+00:00" endTime="2026-04-29T02:08:25.5668975+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7ce2841c-09ae-41d9-a194-e3f263b31a55" />
+    <UnitTestResult executionId="e31f28d7-ffcc-4400-a509-543665c57d09" testId="278a6775-7716-3a6e-2c5f-74eade94ebef" testName="TargetRunDuration_Is150Seconds" computerName="devin-box" duration="00:00:00.0001080" startTime="2026-04-29T02:08:25.5158278+00:00" endTime="2026-04-29T02:08:25.5159352+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e31f28d7-ffcc-4400-a509-543665c57d09" />
+    <UnitTestResult executionId="bca7b4f1-0f5f-438f-ab27-eece9d494f26" testId="11249734-adbe-77f3-ad4d-697a9eaf3fe3" testName="FullRunFlow_StateTransitions" computerName="devin-box" duration="00:00:00.0002460" startTime="2026-04-29T02:08:25.5901620+00:00" endTime="2026-04-29T02:08:25.5904080+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bca7b4f1-0f5f-438f-ab27-eece9d494f26" />
+    <UnitTestResult executionId="2cbe8e02-1399-494b-821b-ffc7ae1e7a21" testId="18371d06-c7cc-94dd-363c-b207e5fc8d5d" testName="EditorPlatform_CreatesMocks" computerName="devin-box" duration="00:00:00.0001979" startTime="2026-04-29T02:08:25.5794876+00:00" endTime="2026-04-29T02:08:25.5796850+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2cbe8e02-1399-494b-821b-ffc7ae1e7a21" />
+    <UnitTestResult executionId="40a0a0c8-ed22-49e4-a34d-bdc5e7002ae0" testId="d17ee2d1-3cc1-e30b-2e91-5464ed47bee6" testName="WeeklyCycle_WrapsAround" computerName="devin-box" duration="00:00:00.0001140" startTime="2026-04-29T02:08:25.5659814+00:00" endTime="2026-04-29T02:08:25.5660950+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="40a0a0c8-ed22-49e4-a34d-bdc5e7002ae0" />
+    <UnitTestResult executionId="98ecd159-96c0-4ec8-a8f2-939cca05fd01" testId="82467ce4-c55b-b310-b72c-2dfd47c30a87" testName="PremiumTrack_RequiresPurchase" computerName="devin-box" duration="00:00:00.0001210" startTime="2026-04-29T02:08:25.5177345+00:00" endTime="2026-04-29T02:08:25.5178556+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="98ecd159-96c0-4ec8-a8f2-939cca05fd01" />
+    <UnitTestResult executionId="591a8354-8fc7-410d-92e7-6d94dfc917c9" testId="b2f42519-83b6-493a-cc8d-7db734c7cdf5" testName="BSP_LeavesDoNotOverlap" computerName="devin-box" duration="00:00:00.0004380" startTime="2026-04-29T02:08:25.5216147+00:00" endTime="2026-04-29T02:08:25.5220527+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="591a8354-8fc7-410d-92e7-6d94dfc917c9" />
+    <UnitTestResult executionId="530ea98d-4f34-41d8-87d7-fef96f8ddfec" testId="00238a7e-d4eb-bf4f-7f9f-72216336be61" testName="MaxLevel_CapsAt10" computerName="devin-box" duration="00:00:00.0001020" startTime="2026-04-29T02:08:25.6083173+00:00" endTime="2026-04-29T02:08:25.6084193+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="530ea98d-4f34-41d8-87d7-fef96f8ddfec" />
+    <UnitTestResult executionId="47450ed4-f609-4c5a-9f4e-4e51c549d235" testId="9b3d42ed-c4a5-35be-b8cb-c622f427cdcb" testName="BSP_SameSeadProducesSameLayout" computerName="devin-box" duration="00:00:00.0003820" startTime="2026-04-29T02:08:25.5220657+00:00" endTime="2026-04-29T02:08:25.5224476+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="47450ed4-f609-4c5a-9f4e-4e51c549d235" />
+    <UnitTestResult executionId="96fbd6a8-7576-4960-856e-57539f1045b3" testId="e4d0f67d-e2ff-1b10-f664-0c103c8f849a" testName="Warrior_HasHighestHP" computerName="devin-box" duration="00:00:00.0001910" startTime="2026-04-29T02:08:25.5711581+00:00" endTime="2026-04-29T02:08:25.5713485+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="96fbd6a8-7576-4960-856e-57539f1045b3" />
+    <UnitTestResult executionId="2d4a4ba7-4425-4e1f-86c4-66d63619f9f5" testId="020336b0-4452-4b12-96c0-010bcc02ba62" testName="Boot_To_Gameplay_IsInvalid" computerName="devin-box" duration="00:00:00.0001180" startTime="2026-04-29T02:08:25.5690742+00:00" endTime="2026-04-29T02:08:25.5691920+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2d4a4ba7-4425-4e1f-86c4-66d63619f9f5" />
+    <UnitTestResult executionId="5557abd5-607a-4b8a-9eec-f6cdb430d03e" testId="094c53d0-498e-72cc-19cd-e45883b84204" testName="RunsPerDay_CalculatedCorrectly" computerName="devin-box" duration="00:00:00.0001070" startTime="2026-04-29T02:08:25.5893200+00:00" endTime="2026-04-29T02:08:25.5894270+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5557abd5-607a-4b8a-9eec-f6cdb430d03e" />
+    <UnitTestResult executionId="6da06a7d-3572-4f62-807a-86b224c5a63e" testId="463baabc-5720-3943-4c5a-0efa6e0c65c2" testName="ReviewPrompt_NotIfAlreadyRated" computerName="devin-box" duration="00:00:00.0001000" startTime="2026-04-29T02:08:25.5151426+00:00" endTime="2026-04-29T02:08:25.5152427+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6da06a7d-3572-4f62-807a-86b224c5a63e" />
+    <UnitTestResult executionId="a37dac86-6977-4136-94c7-df1b4c855a7d" testId="08ab608a-811d-746c-9f75-b9bc1d4f892d" testName="ScreenShake_Amplitude_ScalesWithDamage" computerName="devin-box" duration="00:00:00.0002530" startTime="2026-04-29T02:08:25.5634106+00:00" endTime="2026-04-29T02:08:25.5636632+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a37dac86-6977-4136-94c7-df1b4c855a7d" />
+    <UnitTestResult executionId="de5b51dc-bf1f-4aa4-8d3f-f4b8b4907e02" testId="2c6db131-354f-ac23-d8e9-2528bf949bf7" testName="LevelProgress_Calculated" computerName="devin-box" duration="00:00:00.0001020" startTime="2026-04-29T02:08:25.5172487+00:00" endTime="2026-04-29T02:08:25.5173507+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de5b51dc-bf1f-4aa4-8d3f-f4b8b4907e02" />
+    <UnitTestResult executionId="33b0ac45-4648-4180-a03c-c3b8cb870bf2" testId="7c4d5587-0c88-d5f8-616f-b0a53e11e0d3" testName="BossFloor_Every10th" computerName="devin-box" duration="00:00:00.0001910" startTime="2026-04-29T02:08:25.5671949+00:00" endTime="2026-04-29T02:08:25.5673860+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="33b0ac45-4648-4180-a03c-c3b8cb870bf2" />
+    <UnitTestResult executionId="3f81d8c2-9922-4d90-822e-9eb0d3dbb85f" testId="32607836-342a-adfc-8273-12ca0fe926f1" testName="ProductLookup_FindsById" computerName="devin-box" duration="00:00:00.0004850" startTime="2026-04-29T02:08:25.5717891+00:00" endTime="2026-04-29T02:08:25.5722742+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3f81d8c2-9922-4d90-822e-9eb0d3dbb85f" />
+    <UnitTestResult executionId="465ead48-ec7c-4999-b6b3-e806439fb702" testId="651c7f06-3931-2e9f-7273-fbef53de7da5" testName="D7Benchmark_Above15Percent" computerName="devin-box" duration="00:00:00.0001280" startTime="2026-04-29T02:08:25.5833926+00:00" endTime="2026-04-29T02:08:25.5835206+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="465ead48-ec7c-4999-b6b3-e806439fb702" />
+    <UnitTestResult executionId="78e5fbe3-f7be-43f2-a9f2-4ad59b1ae181" testId="a602ddf7-59b9-f649-5d50-509e50d08cc2" testName="Boot_To_MainMenu_IsValid" computerName="devin-box" duration="00:00:00.0000989" startTime="2026-04-29T02:08:25.5692035+00:00" endTime="2026-04-29T02:08:25.5693019+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="78e5fbe3-f7be-43f2-a9f2-4ad59b1ae181" />
+    <UnitTestResult executionId="6ee30f39-3295-4493-ae11-a9af3fb7b728" testId="370add44-abdc-b330-5861-2dd897bf9f5f" testName="MergeConflict_TakesMaxUpgradeLevel" computerName="devin-box" duration="00:00:00.0005120" startTime="2026-04-29T02:08:25.5590970+00:00" endTime="2026-04-29T02:08:25.5596088+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6ee30f39-3295-4493-ae11-a9af3fb7b728" />
+    <UnitTestResult executionId="730a6453-192e-419d-b6d1-ed1860a69de3" testId="5e595f4c-bad0-dc86-5c98-a4a6821a6e1f" testName="WeightedSelection_RespectsWeights" computerName="devin-box" duration="00:00:00.0015870" startTime="2026-04-29T02:08:25.4937541+00:00" endTime="2026-04-29T02:08:25.4953413+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="730a6453-192e-419d-b6d1-ed1860a69de3" />
+    <UnitTestResult executionId="83546d86-3db6-45fd-a0de-9efd2539dadf" testId="4ae8b5bd-eb53-0b2b-d4a2-ff6b24e5d4d2" testName="GoldMagnet_PullsWithinRadius" computerName="devin-box" duration="00:00:00.0001130" startTime="2026-04-29T02:08:25.5741676+00:00" endTime="2026-04-29T02:08:25.5742807+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="83546d86-3db6-45fd-a0de-9efd2539dadf" />
+    <UnitTestResult executionId="ac661a2e-7b64-402d-b9d1-7be03479d0e8" testId="d49bbbba-948a-fd49-09f0-13298d93f23b" testName="Leaderboard_IDs_AreValid" computerName="devin-box" duration="00:00:00.0003540" startTime="2026-04-29T02:08:25.5735654+00:00" endTime="2026-04-29T02:08:25.5739193+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ac661a2e-7b64-402d-b9d1-7be03479d0e8" />
+    <UnitTestResult executionId="8967a2bf-9811-4579-a758-d63692cd93b1" testId="2bd290d1-0b4c-0df9-0beb-bc30485bc40a" testName="AllHeroes_HaveAbilityCooldown" computerName="devin-box" duration="00:00:00.0004480" startTime="2026-04-29T02:08:25.5699887+00:00" endTime="2026-04-29T02:08:25.5704369+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8967a2bf-9811-4579-a758-d63692cd93b1" />
+    <UnitTestResult executionId="1ee85652-2980-4079-86de-b21438a1b4ee" testId="c99ea6c4-ad05-f046-0fd5-2c8614d42cff" testName="CannotDoubleClaim" computerName="devin-box" duration="00:00:00.0001299" startTime="2026-04-29T02:08:25.5824173+00:00" endTime="2026-04-29T02:08:25.5825467+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1ee85652-2980-4079-86de-b21438a1b4ee" />
+    <UnitTestResult executionId="1be54af3-3048-4198-9f63-0d6cbd6d2c4c" testId="1f421058-55db-4ae3-774f-bd5ce09c7913" testName="WarriorHP_HigherThanArcherAndMage" computerName="devin-box" duration="00:00:00.0008020" startTime="2026-04-29T02:08:25.5159474+00:00" endTime="2026-04-29T02:08:25.5167492+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1be54af3-3048-4198-9f63-0d6cbd6d2c4c" />
+    <UnitTestResult executionId="be0d860d-6294-4848-bc9b-b7a633b9d739" testId="10479670-f579-4988-8801-b402890b0dd2" testName="DefaultVariant_IsControl" computerName="devin-box" duration="00:00:00.0046310" startTime="2026-04-29T02:08:25.4876860+00:00" endTime="2026-04-29T02:08:25.4922352+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="be0d860d-6294-4848-bc9b-b7a633b9d739" />
+    <UnitTestResult executionId="2fe07e01-f75f-4476-828a-bd0b750457ac" testId="6f9305de-e7bd-6014-3f92-b18eb98e4d19" testName="SinglePowerUp_ModifiesCorrectly" computerName="devin-box" duration="00:00:00.0001760" startTime="2026-04-29T02:08:25.5811244+00:00" endTime="2026-04-29T02:08:25.5813005+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2fe07e01-f75f-4476-828a-bd0b750457ac" />
+    <UnitTestResult executionId="14e1c900-adee-4611-93d5-58f140143f2a" testId="be66538f-5a17-ed19-98dd-e434612d77f9" testName="LevelBonus_IncreasesStats" computerName="devin-box" duration="00:00:00.0001430" startTime="2026-04-29T02:08:25.5707812+00:00" endTime="2026-04-29T02:08:25.5709242+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="14e1c900-adee-4611-93d5-58f140143f2a" />
+    <UnitTestResult executionId="7269787f-c409-426f-b22b-f11d5fb2e435" testId="0b551706-5c18-e31f-9862-a284da3f1ff0" testName="AdaptiveDifficulty_DecreasesOnDeaths" computerName="devin-box" duration="00:00:00.0002050" startTime="2026-04-29T02:08:25.5662940+00:00" endTime="2026-04-29T02:08:25.5664990+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7269787f-c409-426f-b22b-f11d5fb2e435" />
+    <UnitTestResult executionId="f31c21b8-a0ab-4f95-98ae-88508a044f90" testId="92c13265-ce7d-c872-5bc7-6929a32e0232" testName="MoveInput_IsClamped" computerName="devin-box" duration="00:00:00.0002599" startTime="2026-04-29T02:08:25.5802463+00:00" endTime="2026-04-29T02:08:25.5805058+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f31c21b8-a0ab-4f95-98ae-88508a044f90" />
+    <UnitTestResult executionId="5331d991-0d5b-4aeb-b3d1-4222bf94e742" testId="41ac4936-801d-fa71-18c2-0f4533e01e17" testName="HitStop_CritIsLongerThanNormal" computerName="devin-box" duration="00:00:00.0001990" startTime="2026-04-29T02:08:25.5631998+00:00" endTime="2026-04-29T02:08:25.5633989+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5331d991-0d5b-4aeb-b3d1-4222bf94e742" />
+    <UnitTestResult executionId="7895fb65-dc6b-47fa-8622-b71b9bfe3890" testId="2468aade-10dc-0a65-9b0a-fc70c7e5b731" testName="CannotClaimTwice_SameDay" computerName="devin-box" duration="00:00:00.0001130" startTime="2026-04-29T02:08:25.5654950+00:00" endTime="2026-04-29T02:08:25.5656084+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="7895fb65-dc6b-47fa-8622-b71b9bfe3890" />
+    <UnitTestResult executionId="0d82d1ed-d118-44f4-a468-b4fc62f8ba0c" testId="c81a8868-2a3f-0872-80af-0b5bf0aa5aa4" testName="Archer_HasFastestAttackSpeed" computerName="devin-box" duration="00:00:00.0002900" startTime="2026-04-29T02:08:25.5704779+00:00" endTime="2026-04-29T02:08:25.5707682+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0d82d1ed-d118-44f4-a468-b4fc62f8ba0c" />
+    <UnitTestResult executionId="2f9c9777-01be-44ef-a6fa-da24bb3e3785" testId="b8dc412a-8e1a-50e4-793a-61564f54b527" testName="Production_DisablesDebug" computerName="devin-box" duration="00:00:00.0000980" startTime="2026-04-29T02:08:25.5185252+00:00" endTime="2026-04-29T02:08:25.5186232+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2f9c9777-01be-44ef-a6fa-da24bb3e3785" />
+    <UnitTestResult executionId="1259c603-b9de-41da-9373-aac93979111a" testId="ee529c04-7f4f-8067-936f-250c60d99876" testName="StreakResets_OnMissedDay" computerName="devin-box" duration="00:00:00.0002240" startTime="2026-04-29T02:08:25.5657462+00:00" endTime="2026-04-29T02:08:25.5659701+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1259c603-b9de-41da-9373-aac93979111a" />
+    <UnitTestResult executionId="abf6939f-8a54-4f84-b3ac-9aa71a3f93d0" testId="56c6e69b-d23a-01e1-8fac-b8ff8c49824b" testName="Register_Overwrites_Previous" computerName="devin-box" duration="00:00:00.0002240" startTime="2026-04-29T02:08:25.6066984+00:00" endTime="2026-04-29T02:08:25.6069219+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="abf6939f-8a54-4f84-b3ac-9aa71a3f93d0" />
+    <UnitTestResult executionId="68cfb6e4-1481-44b1-beff-ede56adb3f75" testId="9a4f2968-0449-fb40-ff69-66fd486661fe" testName="Death_To_Results_IsValid" computerName="devin-box" duration="00:00:00.0000940" startTime="2026-04-29T02:08:25.5693133+00:00" endTime="2026-04-29T02:08:25.5694074+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68cfb6e4-1481-44b1-beff-ede56adb3f75" />
+    <UnitTestResult executionId="cb7271a9-2166-4ba8-83e4-a321fe9d60f1" testId="f6668d93-2503-9a81-2034-9ccbc0bab176" testName="Phase3_TriggersAt30Percent" computerName="devin-box" duration="00:00:00.0001140" startTime="2026-04-29T02:08:25.5195488+00:00" endTime="2026-04-29T02:08:25.5196628+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb7271a9-2166-4ba8-83e4-a321fe9d60f1" />
+    <UnitTestResult executionId="5086cf41-ec16-4f46-8b7c-3e2f9a9b2bec" testId="5496f37e-6c15-04ec-6819-8245be75a7f4" testName="XPForLevel_ScalesExponentially" computerName="devin-box" duration="00:00:00.0001900" startTime="2026-04-29T02:08:25.5167630+00:00" endTime="2026-04-29T02:08:25.5169530+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5086cf41-ec16-4f46-8b7c-3e2f9a9b2bec" />
+    <UnitTestResult executionId="d57773d7-e09f-4f54-bff6-dfe2ac6e664c" testId="b0ba683c-4818-938e-b0c8-f0a9d0e37141" testName="FixedDeltaTime_SyncsWithTimeScale" computerName="devin-box" duration="00:00:00.0001230" startTime="2026-04-29T02:08:25.6070518+00:00" endTime="2026-04-29T02:08:25.6071748+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="d57773d7-e09f-4f54-bff6-dfe2ac6e664c" />
+    <UnitTestResult executionId="ca0afc66-ee45-4ad1-abe9-57ac90116e76" testId="a51eb12d-f1d9-fd10-cc5f-599ca469117c" testName="PremiumPrice_Is499" computerName="devin-box" duration="00:00:00.0003530" startTime="2026-04-29T02:08:25.5173620+00:00" endTime="2026-04-29T02:08:25.5177147+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ca0afc66-ee45-4ad1-abe9-57ac90116e76" />
+    <UnitTestResult executionId="8d12dec4-8bf5-4bd3-a5c6-dd05395b3584" testId="6ea11d8b-ebbe-3986-7179-00020a03b315" testName="Results_To_Loading_IsValid_ForPlayAgain" computerName="devin-box" duration="00:00:00.0001010" startTime="2026-04-29T02:08:25.5696598+00:00" endTime="2026-04-29T02:08:25.5697605+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8d12dec4-8bf5-4bd3-a5c6-dd05395b3584" />
+    <UnitTestResult executionId="bae76284-2246-47a1-a7d9-89bcb70d0e19" testId="cf91630f-5ddc-5716-3a69-d6cc2615ada7" testName="Paused_To_MainMenu_IsValid" computerName="devin-box" duration="00:00:00.0000950" startTime="2026-04-29T02:08:25.5695539+00:00" endTime="2026-04-29T02:08:25.5696483+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bae76284-2246-47a1-a7d9-89bcb70d0e19" />
+    <UnitTestResult executionId="52fe1b8e-b183-41e5-939f-3915ff11c8ed" testId="37bcb034-540f-db28-7f41-81c161112cb9" testName="DailyLogin_QuestReward_BattlePassXP_Flow" computerName="devin-box" duration="00:00:00.0001940" startTime="2026-04-29T02:08:25.5746224+00:00" endTime="2026-04-29T02:08:25.5748158+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="52fe1b8e-b183-41e5-939f-3915ff11c8ed" />
+    <UnitTestResult executionId="4616e5dd-8e63-4a61-bada-87663cc2c710" testId="880399fc-c0e9-a88a-f6dd-d034316432a7" testName="QuestProgress_Tracked" computerName="devin-box" duration="00:00:00.0001230" startTime="2026-04-29T02:08:25.5826676+00:00" endTime="2026-04-29T02:08:25.5827907+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4616e5dd-8e63-4a61-bada-87663cc2c710" />
+    <UnitTestResult executionId="17838db7-2ca3-42e7-9545-7bbdfaf46aa8" testId="9d9bb8d2-3af2-d88f-edd3-a05527805cc9" testName="CannotExceedDailyLimit" computerName="devin-box" duration="00:00:00.0004570" startTime="2026-04-29T02:08:25.5064193+00:00" endTime="2026-04-29T02:08:25.5068763+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="17838db7-2ca3-42e7-9545-7bbdfaf46aa8" />
+    <UnitTestResult executionId="dce9cca3-60d0-40cd-b77d-842cd7012ac7" testId="842eead9-6eea-f4dc-68c5-d995e926b065" testName="AllPlatforms_Defined" computerName="devin-box" duration="00:00:00.0001510" startTime="2026-04-29T02:08:25.5793246+00:00" endTime="2026-04-29T02:08:25.5794752+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="dce9cca3-60d0-40cd-b77d-842cd7012ac7" />
+    <UnitTestResult executionId="9890e1db-faea-4ff0-aeb2-a29b19c0e753" testId="1d64d1c3-25cc-09a6-44e5-d7331982a523" testName="ContentTypes_AllDefined" computerName="devin-box" duration="00:00:00.0005620" startTime="2026-04-29T02:08:25.5637867+00:00" endTime="2026-04-29T02:08:25.5643490+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9890e1db-faea-4ff0-aeb2-a29b19c0e753" />
+    <UnitTestResult executionId="3337349a-f00a-40f1-b02b-f3fe5539dc84" testId="6f951474-bdf2-a827-be4a-8a7d9fee9b63" testName="FeatureUnlock_Schedule" computerName="devin-box" duration="00:00:00.0004230" startTime="2026-04-29T02:08:25.5771695+00:00" endTime="2026-04-29T02:08:25.5775924+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3337349a-f00a-40f1-b02b-f3fe5539dc84" />
+    <UnitTestResult executionId="0c9c6f4e-5e77-4662-a764-bef2637ea717" testId="8c3ce4c6-3fcf-d499-ff71-26610a7810f1" testName="PrestigeBonus_Is5PercentPerLevel" computerName="devin-box" duration="00:00:00.0001080" startTime="2026-04-29T02:08:25.5820694+00:00" endTime="2026-04-29T02:08:25.5821777+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0c9c6f4e-5e77-4662-a764-bef2637ea717" />
+    <UnitTestResult executionId="cb5c45a7-5701-4700-b32d-d5a3d50857cb" testId="3a3ffc27-0ff3-1e10-f836-8d07966cf24c" testName="SeasonDuration_Is42Days" computerName="devin-box" duration="00:00:00.0000960" startTime="2026-04-29T02:08:25.5178676+00:00" endTime="2026-04-29T02:08:25.5179634+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cb5c45a7-5701-4700-b32d-d5a3d50857cb" />
+    <UnitTestResult executionId="6870dccb-80a5-4ab1-be32-7d2340aaacf6" testId="a82dd73e-81ab-c2a5-7fcf-66c6709b3a28" testName="AdPlacements_AreValid" computerName="devin-box" duration="00:00:00.0060660" startTime="2026-04-29T02:08:25.5003404+00:00" endTime="2026-04-29T02:08:25.5064061+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6870dccb-80a5-4ab1-be32-7d2340aaacf6" />
+    <UnitTestResult executionId="c322b2ab-7e7a-4930-a15d-78e748f8ce56" testId="ddc225ad-060e-9af6-3acc-06d70e753a0f" testName="DailyQuests_GeneratesExact3" computerName="devin-box" duration="00:00:00.0000980" startTime="2026-04-29T02:08:25.5825584+00:00" endTime="2026-04-29T02:08:25.5826566+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c322b2ab-7e7a-4930-a15d-78e748f8ce56" />
+    <UnitTestResult executionId="e3cecf92-86dc-4255-bf21-4c1633034dc1" testId="931e03c7-e273-89eb-4d5d-771635419d88" testName="WeeklyQuests_GeneratesExact3" computerName="devin-box" duration="00:00:00.0001070" startTime="2026-04-29T02:08:25.5829480+00:00" endTime="2026-04-29T02:08:25.5830548+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e3cecf92-86dc-4255-bf21-4c1633034dc1" />
+    <UnitTestResult executionId="a6b56a91-6dcd-4c5b-8657-d34abfdf40cc" testId="69a1dcf0-5d1a-9137-b1d9-bcc9bddb108a" testName="ScheduledContent_TriggersOnRelease" computerName="devin-box" duration="00:00:00.0002130" startTime="2026-04-29T02:08:25.5643612+00:00" endTime="2026-04-29T02:08:25.5645743+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6b56a91-6dcd-4c5b-8657-d34abfdf40cc" />
+    <UnitTestResult executionId="e72b1fa7-72ca-44ae-8669-1e9b63689bb6" testId="ca61ce57-9eff-778e-564f-071ed85a94dd" testName="EventNames_AreSnakeCase" computerName="devin-box" duration="00:00:00.0065950" startTime="2026-04-29T02:08:25.5079233+00:00" endTime="2026-04-29T02:08:25.5145184+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e72b1fa7-72ca-44ae-8669-1e9b63689bb6" />
+    <UnitTestResult executionId="a0d13698-417f-4573-b3b1-d0cf73d70531" testId="78ff3260-091b-79b5-1b68-7556037197f1" testName="MergeConflict_UnionMergesCollections" computerName="devin-box" duration="00:00:00.0029320" startTime="2026-04-29T02:08:25.5596216+00:00" endTime="2026-04-29T02:08:25.5625532+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a0d13698-417f-4573-b3b1-d0cf73d70531" />
+    <UnitTestResult executionId="34adebab-d04d-4952-be85-cc497d5cedfc" testId="5d37a5aa-e124-a6b6-d174-7eee1c7e6bd4" testName="D1Benchmark_Above35Percent" computerName="devin-box" duration="00:00:00.0001000" startTime="2026-04-29T02:08:25.5831706+00:00" endTime="2026-04-29T02:08:25.5832710+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="34adebab-d04d-4952-be85-cc497d5cedfc" />
+    <UnitTestResult executionId="1911715c-54e2-4075-8783-5ad5d4415bff" testId="0a35203c-84cd-bbae-03f8-82ad304e5ad9" testName="Milestones_CheckedCorrectly" computerName="devin-box" duration="00:00:00.0004640" startTime="2026-04-29T02:08:25.5835323+00:00" endTime="2026-04-29T02:08:25.5839966+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1911715c-54e2-4075-8783-5ad5d4415bff" />
+    <UnitTestResult executionId="016bc841-172d-46e1-8533-fdd0110e541a" testId="571099db-fc58-5e05-387b-7284655d0710" testName="XP_LevelsUp" computerName="devin-box" duration="00:00:00.0002350" startTime="2026-04-29T02:08:25.5179743+00:00" endTime="2026-04-29T02:08:25.5182094+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="016bc841-172d-46e1-8533-fdd0110e541a" />
+    <UnitTestResult executionId="1abaeaa2-363b-471a-bbfd-ea573293fa2e" testId="52c9013c-8a86-1d69-add3-0e99b0eaaad5" testName="CannotClaim_IncompleteQuest" computerName="devin-box" duration="00:00:00.0001120" startTime="2026-04-29T02:08:25.5822937+00:00" endTime="2026-04-29T02:08:25.5824056+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="1abaeaa2-363b-471a-bbfd-ea573293fa2e" />
+    <UnitTestResult executionId="6709d5c3-e3b1-4cff-af4c-c443bebdee57" testId="75eadaed-16ad-6ea8-b893-887c8a75571a" testName="AdaptiveQuality_DisablesShadowsBelow30FPS" computerName="devin-box" duration="00:00:00.0000970" startTime="2026-04-29T02:08:25.5777103+00:00" endTime="2026-04-29T02:08:25.5778075+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6709d5c3-e3b1-4cff-af4c-c443bebdee57" />
+    <UnitTestResult executionId="598212d9-1bcb-4ae1-8d67-49c6f820b1e8" testId="5481f3b2-e26b-d1f0-d181-14eae0ccdb0e" testName="ScaledEnemyDamage_CalculatedCorrectly" computerName="devin-box" duration="00:00:00.0001260" startTime="2026-04-29T02:08:25.5155552+00:00" endTime="2026-04-29T02:08:25.5156813+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="598212d9-1bcb-4ae1-8d67-49c6f820b1e8" />
+    <UnitTestResult executionId="309603b8-7d1f-4b3b-b945-a33cce23f4e2" testId="184f2380-9f62-d612-4d4e-54eddf5f99ac" testName="RunCompletion_UpdatesAllSystems" computerName="devin-box" duration="00:00:00.0103830" startTime="2026-04-29T02:08:25.5906755+00:00" endTime="2026-04-29T02:08:25.6010585+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="309603b8-7d1f-4b3b-b945-a33cce23f4e2" />
+    <UnitTestResult executionId="c677a621-1163-4af4-92dc-73d72633a610" testId="bbe02c0c-49a5-bdf9-d533-c3d3a33bec69" testName="DailyCounter_ResetsOnNewDay" computerName="devin-box" duration="00:00:00.0003010" startTime="2026-04-29T02:08:25.5070098+00:00" endTime="2026-04-29T02:08:25.5073105+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c677a621-1163-4af4-92dc-73d72633a610" />
+    <UnitTestResult executionId="54d70cf7-ab20-45cf-8b03-03b2f7d6343a" testId="a847d8a5-903d-a04f-e626-fce4b44dd924" testName="MergeConflict_TakesMaxGold" computerName="devin-box" duration="00:00:00.0001130" startTime="2026-04-29T02:08:25.5589722+00:00" endTime="2026-04-29T02:08:25.5590853+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="54d70cf7-ab20-45cf-8b03-03b2f7d6343a" />
+    <UnitTestResult executionId="aea55498-5596-4c0c-a83b-208885c6a044" testId="33dd90c8-bcb9-4fa3-55a8-c48f8835aa93" testName="Pool_Return_IncreasesAvailable" computerName="devin-box" duration="00:00:00.0004740" startTime="2026-04-29T02:08:25.5764124+00:00" endTime="2026-04-29T02:08:25.5768862+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aea55498-5596-4c0c-a83b-208885c6a044" />
+    <UnitTestResult executionId="51ca59a7-4da3-4074-a27c-924aa26e22be" testId="611a3f11-d3a1-633e-c2c2-0173b1e25827" testName="DifficultyLabel_Correct" computerName="devin-box" duration="00:00:00.0002320" startTime="2026-04-29T02:08:25.5665107+00:00" endTime="2026-04-29T02:08:25.5667424+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="51ca59a7-4da3-4074-a27c-924aa26e22be" />
+    <UnitTestResult executionId="4b2b7888-132c-4b6d-8764-018e26c721e1" testId="2c5b694d-4de7-8f9c-fdee-b47a2af96236" testName="ScoreCalculation_IsCorrect" computerName="devin-box" duration="00:00:00.0002010" startTime="2026-04-29T02:08:25.5895748+00:00" endTime="2026-04-29T02:08:25.5897758+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4b2b7888-132c-4b6d-8764-018e26c721e1" />
+    <UnitTestResult executionId="db30cf6f-ff73-4cb3-81ca-0b731f5996d3" testId="d7debe74-3e68-9158-4203-773e5f51c181" testName="NonConsumable_OnlyPurchasedOnce" computerName="devin-box" duration="00:00:00.0001420" startTime="2026-04-29T02:08:25.5716344+00:00" endTime="2026-04-29T02:08:25.5717767+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="db30cf6f-ff73-4cb3-81ca-0b731f5996d3" />
+    <UnitTestResult executionId="809c2334-e98e-4e72-b5d4-53e5d9223d47" testId="0145851f-4ae6-d12b-a696-734b2957587e" testName="EnemyDamage_ScalesPerFloor" computerName="devin-box" duration="00:00:00.0001200" startTime="2026-04-29T02:08:25.5676522+00:00" endTime="2026-04-29T02:08:25.5677722+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="809c2334-e98e-4e72-b5d4-53e5d9223d47" />
+    <UnitTestResult executionId="229b51e3-c5ea-4ca8-9da3-6cd41444c912" testId="e1f74018-ccaa-aab4-cd6b-873c3148485f" testName="BossHP_IsScaled" computerName="devin-box" duration="00:00:00.0001150" startTime="2026-04-29T02:08:25.5187432+00:00" endTime="2026-04-29T02:08:25.5188587+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="229b51e3-c5ea-4ca8-9da3-6cd41444c912" />
+    <UnitTestResult executionId="65f2baf8-ad30-45e5-9be8-0fae008c9923" testId="e4b4477d-b7b6-686b-088e-3c90fda6174f" testName="ReviewPrompt_AfterEnoughRuns" computerName="devin-box" duration="00:00:00.0001340" startTime="2026-04-29T02:08:25.5149972+00:00" endTime="2026-04-29T02:08:25.5151306+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="65f2baf8-ad30-45e5-9be8-0fae008c9923" />
+    <UnitTestResult executionId="0ee542f2-b91d-4c21-9236-0046aa5c12cd" testId="da4dfff8-68bd-2e74-8413-c0722c6fd0f9" testName="TimeScale_IsReducedDuringSlowMo" computerName="devin-box" duration="00:00:00.0001440" startTime="2026-04-29T02:08:25.6071875+00:00" endTime="2026-04-29T02:08:25.6073310+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ee542f2-b91d-4c21-9236-0046aa5c12cd" />
+    <UnitTestResult executionId="fd9bfa9a-30aa-40a0-a088-61377fa7dc16" testId="c37ac938-4c51-e1f9-7a94-a49a646a105d" testName="QuestReward_GrantsGoldAndXP" computerName="devin-box" duration="00:00:00.0001240" startTime="2026-04-29T02:08:25.5828019+00:00" endTime="2026-04-29T02:08:25.5829255+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="fd9bfa9a-30aa-40a0-a088-61377fa7dc16" />
+    <UnitTestResult executionId="5ede1351-9bf5-4063-9107-10af9f1067b2" testId="02cdaa8f-87c6-6128-0028-faa9c55550cd" testName="AverageFPS_CalculatedCorrectly" computerName="devin-box" duration="00:00:00.0012620" startTime="2026-04-29T02:08:25.5778190+00:00" endTime="2026-04-29T02:08:25.5790804+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ede1351-9bf5-4063-9107-10af9f1067b2" />
+    <UnitTestResult executionId="6cf3c580-135c-4743-bc91-c86fb768d918" testId="b8c76579-e758-ea85-2aa0-4fcdfda57133" testName="BattlePassPurchase_Flow" computerName="devin-box" duration="00:00:00.0002140" startTime="2026-04-29T02:08:25.5743965+00:00" endTime="2026-04-29T02:08:25.5746104+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6cf3c580-135c-4743-bc91-c86fb768d918" />
+    <UnitTestResult executionId="5a15fafd-65c1-43b0-9a84-b80c14a6700d" testId="94b71c50-610d-e1ab-4acb-5ff2f2f3dff8" testName="SelectionGenerates3Choices" computerName="devin-box" duration="00:00:00.0001070" startTime="2026-04-29T02:08:25.5810069+00:00" endTime="2026-04-29T02:08:25.5811133+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5a15fafd-65c1-43b0-9a84-b80c14a6700d" />
+    <UnitTestResult executionId="09af7aa9-ed31-44f7-89c2-010a95f290c5" testId="89a2c5f8-b82d-7812-18db-ef992961246a" testName="PremiumFlag_MergesWithOR" computerName="devin-box" duration="00:00:00.0001120" startTime="2026-04-29T02:08:25.5625661+00:00" endTime="2026-04-29T02:08:25.5626785+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="09af7aa9-ed31-44f7-89c2-010a95f290c5" />
+    <UnitTestResult executionId="e81c4a74-d182-4adb-8faa-9c437b048173" testId="ee2938d1-af69-3d99-23f2-d42ee835f958" testName="BSP_GeneratesAtLeastTwoRooms" computerName="devin-box" duration="00:00:00.0001840" startTime="2026-04-29T02:08:25.5214196+00:00" endTime="2026-04-29T02:08:25.5216032+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e81c4a74-d182-4adb-8faa-9c437b048173" />
+    <UnitTestResult executionId="8e658c69-bb0d-4261-9cc0-34a6ea0e0a40" testId="41347068-0b5c-c497-4c28-d2d0d97a6ad2" testName="BSP_DifferentSeedsProduceDifferentLayouts" computerName="devin-box" duration="00:00:00.0003060" startTime="2026-04-29T02:08:25.5211015+00:00" endTime="2026-04-29T02:08:25.5214078+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8e658c69-bb0d-4261-9cc0-34a6ea0e0a40" />
+    <UnitTestResult executionId="22542dab-12f9-47f9-8fb2-73f1e7504543" testId="67784d67-354e-b4d8-5610-ebc22ddcffe0" testName="AllStatesHaveAtLeastOneOutbound" computerName="devin-box" duration="00:00:00.0009840" startTime="2026-04-29T02:08:25.5680775+00:00" endTime="2026-04-29T02:08:25.5690615+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="22542dab-12f9-47f9-8fb2-73f1e7504543" />
+    <UnitTestResult executionId="8d598329-2c13-4c00-803e-63a1597bb6c3" testId="cfd09791-8cba-90a0-207b-6cc645c94999" testName="PlayerSegmentation_ClassifiesCorrectly" computerName="devin-box" duration="00:00:00.0002790" startTime="2026-04-29T02:08:25.5890297+00:00" endTime="2026-04-29T02:08:25.5893085+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8d598329-2c13-4c00-803e-63a1597bb6c3" />
+    <UnitTestResult executionId="26ef8466-6081-4263-8136-42dd07a882b9" testId="bbb81b7c-346a-bf74-ff0f-d887f7f3121f" testName="Progress_ClampedTo100" computerName="devin-box" duration="00:00:00.0001970" startTime="2026-04-29T02:08:25.4999988+00:00" endTime="2026-04-29T02:08:25.5001954+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="26ef8466-6081-4263-8136-42dd07a882b9" />
+    <UnitTestResult executionId="a618a2a6-f579-4bc2-8a35-12f943012779" testId="4b403ef0-2cf5-d68b-66a8-26ce8cef2bb2" testName="StreakBonus_Multiplies" computerName="devin-box" duration="00:00:00.0001150" startTime="2026-04-29T02:08:25.5656200+00:00" endTime="2026-04-29T02:08:25.5657349+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a618a2a6-f579-4bc2-8a35-12f943012779" />
+    <UnitTestResult executionId="c3eab061-cf65-4246-8437-4b74f16fe48e" testId="cdcb0ccb-c13f-912c-ac09-46e6666fe7d7" testName="Results_To_MainMenu_IsValid" computerName="devin-box" duration="00:00:00.0000940" startTime="2026-04-29T02:08:25.5697714+00:00" endTime="2026-04-29T02:08:25.5698658+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c3eab061-cf65-4246-8437-4b74f16fe48e" />
+    <UnitTestResult executionId="9dbc1147-9a63-4eb7-bc67-250e1d5505c0" testId="661847b7-1b29-cd75-5ed3-30268e505fed" testName="Consumable_GrantsGems" computerName="devin-box" duration="00:00:00.0001170" startTime="2026-04-29T02:08:25.5715048+00:00" endTime="2026-04-29T02:08:25.5716218+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9dbc1147-9a63-4eb7-bc67-250e1d5505c0" />
+    <UnitTestResult executionId="5e165776-dfab-41e5-b405-acf3720f7204" testId="ec9cad78-3433-c78c-551f-ecbc6ba1eec3" testName="CannotPrestige_AtMaxLevel" computerName="devin-box" duration="00:00:00.0000950" startTime="2026-04-29T02:08:25.5818541+00:00" endTime="2026-04-29T02:08:25.5819488+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5e165776-dfab-41e5-b405-acf3720f7204" />
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="HitStop_CritIsLongerThanNormal" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="41ac4936-801d-fa71-18c2-0f4533e01e17">
+      <Execution id="5331d991-0d5b-4aeb-b3d1-4222bf94e742" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CombatTests" name="HitStop_CritIsLongerThanNormal" />
+    </UnitTest>
+    <UnitTest name="Death_To_Results_IsValid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="9a4f2968-0449-fb40-ff69-66fd486661fe">
+      <Execution id="68cfb6e4-1481-44b1-beff-ede56adb3f75" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="Death_To_Results_IsValid" />
+    </UnitTest>
+    <UnitTest name="AutoCollect_WithinHalfUnit" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="f56e35e4-c0a0-beab-de20-58e0ab7c3cea">
+      <Execution id="c1c25b9f-9d50-498c-a6d1-12e741538b1e" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.LootTests" name="AutoCollect_WithinHalfUnit" />
+    </UnitTest>
+    <UnitTest name="StreakBonus_Multiplies" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="4b403ef0-2cf5-d68b-66a8-26ce8cef2bb2">
+      <Execution id="a618a2a6-f579-4bc2-8a35-12f943012779" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DailyLoginTests" name="StreakBonus_Multiplies" />
+    </UnitTest>
+    <UnitTest name="DodgeCooldown_IsCorrect" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="05ec2e63-a0d6-5167-b672-be4b339234b3">
+      <Execution id="01cd8b4c-042e-4670-924e-b5856f3314fb" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PlayerTests" name="DodgeCooldown_IsCorrect" />
+    </UnitTest>
+    <UnitTest name="AdPlacements_AreValid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a82dd73e-81ab-c2a5-7fcf-66c6709b3a28">
+      <Execution id="6870dccb-80a5-4ab1-be32-7d2340aaacf6" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AdTests" name="AdPlacements_AreValid" />
+    </UnitTest>
+    <UnitTest name="BonusScalesLinearly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b21e2969-50f6-36cc-9230-4598c51efd2c">
+      <Execution id="561a84f0-a46f-4d11-9813-b9220431974c" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.TownUpgradeTests" name="BonusScalesLinearly" />
+    </UnitTest>
+    <UnitTest name="FixedDeltaTime_SyncsWithTimeScale" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b0ba683c-4818-938e-b0c8-f0a9d0e37141">
+      <Execution id="d57773d7-e09f-4f54-bff6-dfe2ac6e664c" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.SlowMotionTests" name="FixedDeltaTime_SyncsWithTimeScale" />
+    </UnitTest>
+    <UnitTest name="ReviewPrompt_NotIfAlreadyRated" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="463baabc-5720-3943-4c5a-0efa6e0c65c2">
+      <Execution id="6da06a7d-3572-4f62-807a-86b224c5a63e" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AppStoreTests" name="ReviewPrompt_NotIfAlreadyRated" />
+    </UnitTest>
+    <UnitTest name="Archer_HasFastestAttackSpeed" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="c81a8868-2a3f-0872-80af-0b5bf0aa5aa4">
+      <Execution id="0d82d1ed-d118-44f4-a468-b4fc62f8ba0c" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.HeroClassTests" name="Archer_HasFastestAttackSpeed" />
+    </UnitTest>
+    <UnitTest name="CanUpgrade_SufficientGold" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="9cf336ac-b554-75d7-40ed-d258dd049be9">
+      <Execution id="26e6fcf9-57b5-47f4-9ac1-4b1396ecf81a" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.TownUpgradeTests" name="CanUpgrade_SufficientGold" />
+    </UnitTest>
+    <UnitTest name="ScheduledContent_TriggersOnRelease" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="69a1dcf0-5d1a-9137-b1d9-bcc9bddb108a">
+      <Execution id="a6b56a91-6dcd-4c5b-8657-d34abfdf40cc" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ContentSchedulerTests" name="ScheduledContent_TriggersOnRelease" />
+    </UnitTest>
+    <UnitTest name="FreeTrack_ClaimableWithoutPremium" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="5cab0677-0d45-a3d6-8790-f8f12be6de77">
+      <Execution id="75a95b45-9d98-4ea5-8add-24b49030956d" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BattlePassTests" name="FreeTrack_ClaimableWithoutPremium" />
+    </UnitTest>
+    <UnitTest name="CritChance_IsWithinBounds" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="21ce5884-6b93-5451-4621-3f2b3bd46484">
+      <Execution id="f969fe3b-90f5-4b65-855b-15ff2910b3b8" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CombatTests" name="CritChance_IsWithinBounds" />
+    </UnitTest>
+    <UnitTest name="CritDamage_IsMultiplied" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="65b1b1a2-6fbc-3f32-3ecf-0c99f1626293">
+      <Execution id="19310f07-1c99-4fb4-a9e8-34cf069e8631" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CombatTests" name="CritDamage_IsMultiplied" />
+    </UnitTest>
+    <UnitTest name="CrashFreeRate_Calculated" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="e696f921-c55c-7544-69c3-ebce4502e53e">
+      <Execution id="4837c5ef-bb44-4788-a0e7-66dd36b1cd99" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CrashReporterTests" name="CrashFreeRate_Calculated" />
+    </UnitTest>
+    <UnitTest name="ReviewPrompt_AfterEnoughRuns" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="e4b4477d-b7b6-686b-088e-3c90fda6174f">
+      <Execution id="65f2baf8-ad30-45e5-9be8-0fae008c9923" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AppStoreTests" name="ReviewPrompt_AfterEnoughRuns" />
+    </UnitTest>
+    <UnitTest name="EnemyCount_CappedAt15" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="69df764b-958d-eb1c-4d4e-70d02e0690a0">
+      <Execution id="927c1c4f-808f-46fe-8ec5-76cb2f6ae173" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BalanceConfigTests" name="EnemyCount_CappedAt15" />
+    </UnitTest>
+    <UnitTest name="Event_ActiveWithinDateRange" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="0fc307e5-6086-bcc8-253c-6f9b77cac75f">
+      <Execution id="6776911f-969d-48ef-aabb-f1c86133f4d7" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.SeasonalEventTests" name="Event_ActiveWithinDateRange" />
+    </UnitTest>
+    <UnitTest name="D30Benchmark_Above8Percent" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="1867c3fe-7a2b-9bfe-9deb-933297924c04">
+      <Execution id="9c9c17fe-777c-49bd-baa0-1aee640c7685" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RetentionTests" name="D30Benchmark_Above8Percent" />
+    </UnitTest>
+    <UnitTest name="CannotDoubleClaim" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="c99ea6c4-ad05-f046-0fd5-2c8614d42cff">
+      <Execution id="1ee85652-2980-4079-86de-b21438a1b4ee" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.QuestTests" name="CannotDoubleClaim" />
+    </UnitTest>
+    <UnitTest name="ScaledEnemyDamage_CalculatedCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="5481f3b2-e26b-d1f0-d181-14eae0ccdb0e">
+      <Execution id="598212d9-1bcb-4ae1-8d67-49c6f820b1e8" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BalanceConfigTests" name="ScaledEnemyDamage_CalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="InverseDropRate_HigherDifficultyBetterDrops" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="05edf9d0-d224-b048-e5b6-ffaea3487f3e">
+      <Execution id="7ce2841c-09ae-41d9-a194-e3f263b31a55" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DifficultyTests" name="InverseDropRate_HigherDifficultyBetterDrops" />
+    </UnitTest>
+    <UnitTest name="MoveInput_IsClamped" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="92c13265-ce7d-c872-5bc7-6929a32e0232">
+      <Execution id="f31c21b8-a0ab-4f95-98ae-88508a044f90" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PlayerTests" name="MoveInput_IsClamped" />
+    </UnitTest>
+    <UnitTest name="ScoreCalculation_IsCorrect" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="2c5b694d-4de7-8f9c-fdee-b47a2af96236">
+      <Execution id="4b2b7888-132c-4b6d-8764-018e26c721e1" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RunDataTests" name="ScoreCalculation_IsCorrect" />
+    </UnitTest>
+    <UnitTest name="Gameplay_To_Death_IsValid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="2f8ed0d5-2fc4-ff2c-4a13-8c3131630d61">
+      <Execution id="084a6d9c-868b-475f-8a55-5b64c848b9ea" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="Gameplay_To_Death_IsValid" />
+    </UnitTest>
+    <UnitTest name="MergeConflict_TakesMaxUpgradeLevel" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="370add44-abdc-b330-5861-2dd897bf9f5f">
+      <Execution id="6ee30f39-3295-4493-ae11-a9af3fb7b728" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CloudSaveTests" name="MergeConflict_TakesMaxUpgradeLevel" />
+    </UnitTest>
+    <UnitTest name="Leaderboard_IDs_AreValid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="d49bbbba-948a-fd49-09f0-13298d93f23b">
+      <Execution id="ac661a2e-7b64-402d-b9d1-7be03479d0e8" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.LeaderboardTests" name="Leaderboard_IDs_AreValid" />
+    </UnitTest>
+    <UnitTest name="AdaptiveDifficulty_DecreasesOnDeaths" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="0b551706-5c18-e31f-9862-a284da3f1ff0">
+      <Execution id="7269787f-c409-426f-b22b-f11d5fb2e435" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DifficultyTests" name="AdaptiveDifficulty_DecreasesOnDeaths" />
+    </UnitTest>
+    <UnitTest name="CannotPrestige_AtMaxLevel" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="ec9cad78-3433-c78c-551f-ecbc6ba1eec3">
+      <Execution id="5e165776-dfab-41e5-b405-acf3720f7204" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PrestigeTests" name="CannotPrestige_AtMaxLevel" />
+    </UnitTest>
+    <UnitTest name="PrestigeBonus_Is5PercentPerLevel" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="8c3ce4c6-3fcf-d499-ff71-26610a7810f1">
+      <Execution id="0c9c6f4e-5e77-4662-a764-bef2637ea717" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PrestigeTests" name="PrestigeBonus_Is5PercentPerLevel" />
+    </UnitTest>
+    <UnitTest name="WeightedSelection_RespectsWeights" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="5e595f4c-bad0-dc86-5c98-a4a6821a6e1f">
+      <Execution id="730a6453-192e-419d-b6d1-ed1860a69de3" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ABTestTests" name="WeightedSelection_RespectsWeights" />
+    </UnitTest>
+    <UnitTest name="HealthBar_Color_ChangesAtThreshold" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="f40eb477-ef95-b365-5d72-3437259c8d48">
+      <Execution id="386b528c-a07b-4116-9a62-0a6a59116007" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PlayerTests" name="HealthBar_Color_ChangesAtThreshold" />
+    </UnitTest>
+    <UnitTest name="DailyLogin_QuestReward_BattlePassXP_Flow" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="37bcb034-540f-db28-7f41-81c161112cb9">
+      <Execution id="52fe1b8e-b183-41e5-939f-3915ff11c8ed" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.MonetizationFlowIntegrationTests" name="DailyLogin_QuestReward_BattlePassXP_Flow" />
+    </UnitTest>
+    <UnitTest name="DailyQuests_GeneratesExact3" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="ddc225ad-060e-9af6-3acc-06d70e753a0f">
+      <Execution id="c322b2ab-7e7a-4930-a15d-78e748f8ce56" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.QuestTests" name="DailyQuests_GeneratesExact3" />
+    </UnitTest>
+    <UnitTest name="Register_And_Get_ReturnsService" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="51a30da0-3e42-d75e-48a0-008759ce7e5d">
+      <Execution id="507b677b-6fb3-4fb5-bd34-1c142a8526bd" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ServiceLocatorTests" name="Register_And_Get_ReturnsService" />
+    </UnitTest>
+    <UnitTest name="PremiumPrice_Is499" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a51eb12d-f1d9-fd10-cc5f-599ca469117c">
+      <Execution id="ca0afc66-ee45-4ad1-abe9-57ac90116e76" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BattlePassTests" name="PremiumPrice_Is499" />
+    </UnitTest>
+    <UnitTest name="BSP_SameSeadProducesSameLayout" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="9b3d42ed-c4a5-35be-b8cb-c622f427cdcb">
+      <Execution id="47450ed4-f609-4c5a-9f4e-4e51c549d235" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BSPDungeonGeneratorTests" name="BSP_SameSeadProducesSameLayout" />
+    </UnitTest>
+    <UnitTest name="DeepLink_ParsesEventId" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="83305606-493c-e074-ecdc-965d65c52bd2">
+      <Execution id="f8b5fd7f-b1ab-42f5-9f30-1f6f537d0acf" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AppStoreTests" name="DeepLink_ParsesEventId" />
+    </UnitTest>
+    <UnitTest name="StreakResets_OnMissedDay" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="ee529c04-7f4f-8067-936f-250c60d99876">
+      <Execution id="1259c603-b9de-41da-9373-aac93979111a" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DailyLoginTests" name="StreakResets_OnMissedDay" />
+    </UnitTest>
+    <UnitTest name="BSP_AllLeavesAreWithinBounds" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="8b0fed7b-c292-7d66-bfe2-23f863e2fd97">
+      <Execution id="259bc928-899d-4190-8bee-d9f6d8ddeb56" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BSPDungeonGeneratorTests" name="BSP_AllLeavesAreWithinBounds" />
+    </UnitTest>
+    <UnitTest name="TargetRunDuration_Is150Seconds" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="278a6775-7716-3a6e-2c5f-74eade94ebef">
+      <Execution id="e31f28d7-ffcc-4400-a509-543665c57d09" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BalanceConfigTests" name="TargetRunDuration_Is150Seconds" />
+    </UnitTest>
+    <UnitTest name="AdaptiveQuality_DisablesShadowsBelow30FPS" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="75eadaed-16ad-6ea8-b893-887c8a75571a">
+      <Execution id="6709d5c3-e3b1-4cff-af4c-c443bebdee57" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PerformanceMonitorTests" name="AdaptiveQuality_DisablesShadowsBelow30FPS" />
+    </UnitTest>
+    <UnitTest name="FullRunFlow_StateTransitions" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="11249734-adbe-77f3-ad4d-697a9eaf3fe3">
+      <Execution id="bca7b4f1-0f5f-438f-ab27-eece9d494f26" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RunFlowIntegrationTests" name="FullRunFlow_StateTransitions" />
+    </UnitTest>
+    <UnitTest name="FeatureUnlock_Schedule" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="6f951474-bdf2-a827-be4a-8a7d9fee9b63">
+      <Execution id="3337349a-f00a-40f1-b02b-f3fe5539dc84" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.OnboardingTests" name="FeatureUnlock_Schedule" />
+    </UnitTest>
+    <UnitTest name="MergeConflict_UnionMergesCollections" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="78ff3260-091b-79b5-1b68-7556037197f1">
+      <Execution id="a0d13698-417f-4573-b3b1-d0cf73d70531" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CloudSaveTests" name="MergeConflict_UnionMergesCollections" />
+    </UnitTest>
+    <UnitTest name="LevelProgress_Calculated" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="2c6db131-354f-ac23-d8e9-2528bf949bf7">
+      <Execution id="de5b51dc-bf1f-4aa4-8d3f-f4b8b4907e02" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BattlePassTests" name="LevelProgress_Calculated" />
+    </UnitTest>
+    <UnitTest name="Get_Unregistered_ReturnsNull" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="c8cd45c0-b84d-b2d6-e3a8-b5d42bb6ce4a">
+      <Execution id="f0f1440e-a5b9-4e82-ac5a-90d8d560104e" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ServiceLocatorTests" name="Get_Unregistered_ReturnsNull" />
+    </UnitTest>
+    <UnitTest name="CryptKing_EnrageIncreasesSpeed" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="677e7e72-e810-f725-1992-f24f41b70c25">
+      <Execution id="dd21f33a-36cc-4ee2-8ac2-4ba485822423" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BossPhaseTests" name="CryptKing_EnrageIncreasesSpeed" />
+    </UnitTest>
+    <UnitTest name="EventNames_AreSnakeCase" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="ca61ce57-9eff-778e-564f-071ed85a94dd">
+      <Execution id="e72b1fa7-72ca-44ae-8669-1e9b63689bb6" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AnalyticsTests" name="EventNames_AreSnakeCase" />
+    </UnitTest>
+    <UnitTest name="PremiumTrack_RequiresPurchase" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="82467ce4-c55b-b310-b72c-2dfd47c30a87">
+      <Execution id="98ecd159-96c0-4ec8-a8f2-939cca05fd01" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BattlePassTests" name="PremiumTrack_RequiresPurchase" />
+    </UnitTest>
+    <UnitTest name="Aggregate_BonusesFromMultipleBuildings" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b6643172-4d78-49c2-4c68-eebd7fc01e73">
+      <Execution id="010dc2f9-acbd-43f4-9360-0240ad4d8f0c" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.TownUpgradeTests" name="Aggregate_BonusesFromMultipleBuildings" />
+    </UnitTest>
+    <UnitTest name="Mage_HasHighestDamage" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a4ce055a-e75d-88ec-bd1c-73ea5c30649d">
+      <Execution id="14564d15-4328-4333-9454-b1c87f354e6c" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.HeroClassTests" name="Mage_HasHighestDamage" />
+    </UnitTest>
+    <UnitTest name="MaxAdsPerDay_Is6" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="52d854df-400e-d64f-b496-223e3d0b34af">
+      <Execution id="d8110500-eac7-4757-befb-2042a132dd84" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AdTests" name="MaxAdsPerDay_Is6" />
+    </UnitTest>
+    <UnitTest name="SeasonDuration_Is42Days" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="3a3ffc27-0ff3-1e10-f836-8d07966cf24c">
+      <Execution id="cb5c45a7-5701-4700-b32d-d5a3d50857cb" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BattlePassTests" name="SeasonDuration_Is42Days" />
+    </UnitTest>
+    <UnitTest name="BossHP_IsScaled" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="e1f74018-ccaa-aab4-cd6b-873c3148485f">
+      <Execution id="229b51e3-c5ea-4ca8-9da3-6cd41444c912" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BossPhaseTests" name="BossHP_IsScaled" />
+    </UnitTest>
+    <UnitTest name="Pool_Return_IncreasesAvailable" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="33dd90c8-bcb9-4fa3-55a8-c48f8835aa93">
+      <Execution id="aea55498-5596-4c0c-a83b-208885c6a044" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ObjectPoolTests" name="Pool_Return_IncreasesAvailable" />
+    </UnitTest>
+    <UnitTest name="SinglePowerUp_ModifiesCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="6f9305de-e7bd-6014-3f92-b18eb98e4d19">
+      <Execution id="2fe07e01-f75f-4476-828a-bd0b750457ac" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PowerUpTests" name="SinglePowerUp_ModifiesCorrectly" />
+    </UnitTest>
+    <UnitTest name="NonConsumable_OnlyPurchasedOnce" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="d7debe74-3e68-9158-4203-773e5f51c181">
+      <Execution id="db30cf6f-ff73-4cb3-81ca-0b731f5996d3" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.IAPTests" name="NonConsumable_OnlyPurchasedOnce" />
+    </UnitTest>
+    <UnitTest name="WeeklyQuests_GeneratesExact3" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="931e03c7-e273-89eb-4d5d-771635419d88">
+      <Execution id="e3cecf92-86dc-4255-bf21-4c1633034dc1" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.QuestTests" name="WeeklyQuests_GeneratesExact3" />
+    </UnitTest>
+    <UnitTest name="Warrior_HasHighestHP" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="e4d0f67d-e2ff-1b10-f664-0c103c8f849a">
+      <Execution id="96fbd6a8-7576-4960-856e-57539f1045b3" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.HeroClassTests" name="Warrior_HasHighestHP" />
+    </UnitTest>
+    <UnitTest name="GoldMagnet_PullsWithinRadius" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="4ae8b5bd-eb53-0b2b-d4a2-ff6b24e5d4d2">
+      <Execution id="83546d86-3db6-45fd-a0de-9efd2539dadf" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.LootTests" name="GoldMagnet_PullsWithinRadius" />
+    </UnitTest>
+    <UnitTest name="SessionDuration_Average" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a1101da8-6d91-5d97-6ed9-eb5f14b0205d">
+      <Execution id="67c777eb-b86a-4d06-b77a-4ed0468b9c98" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RetentionTests" name="SessionDuration_Average" />
+    </UnitTest>
+    <UnitTest name="BSP_LeavesDoNotOverlap" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b2f42519-83b6-493a-cc8d-7db734c7cdf5">
+      <Execution id="591a8354-8fc7-410d-92e7-6d94dfc917c9" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BSPDungeonGeneratorTests" name="BSP_LeavesDoNotOverlap" />
+    </UnitTest>
+    <UnitTest name="DungeonFloorProgression_Integration" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="6251d405-c247-8bc2-ceee-1c312b1cea9f">
+      <Execution id="8aa88971-e786-4b59-8392-a7b97bd3e814" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RunFlowIntegrationTests" name="DungeonFloorProgression_Integration" />
+    </UnitTest>
+    <UnitTest name="Multiplier_ClampedToRange" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a00d37fa-5268-f82e-1398-7e874c14afbc">
+      <Execution id="ff4a4481-81c7-4b8d-ba2d-dca3e4e9f896" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DifficultyTests" name="Multiplier_ClampedToRange" />
+    </UnitTest>
+    <UnitTest name="Progress_ClampedTo100" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="bbb81b7c-346a-bf74-ff0f-d887f7f3121f">
+      <Execution id="26ef8466-6081-4263-8136-42dd07a882b9" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AchievementTests" name="Progress_ClampedTo100" />
+    </UnitTest>
+    <UnitTest name="Pool_Get_ReducesAvailable" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="3ca60ad6-f627-4501-74ba-52cc704b7d09">
+      <Execution id="d545021b-17f8-4f4a-abdd-9cfce604384e" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ObjectPoolTests" name="Pool_Get_ReducesAvailable" />
+    </UnitTest>
+    <UnitTest name="CostScalesExponentially" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="80a5e004-ff2c-1a1d-1dbd-ef426c203ff3">
+      <Execution id="92c8ea9f-647e-408f-ac8d-22368f6052d2" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.TownUpgradeTests" name="CostScalesExponentially" />
+    </UnitTest>
+    <UnitTest name="SelectionGenerates3Choices" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="94b71c50-610d-e1ab-4acb-5ff2f2f3dff8">
+      <Execution id="5a15fafd-65c1-43b0-9a84-b80c14a6700d" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PowerUpTests" name="SelectionGenerates3Choices" />
+    </UnitTest>
+    <UnitTest name="IncrementalProgress_Accumulates" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="04717305-318d-9e9e-05ba-d0f64c3d9d0e">
+      <Execution id="d96c8afe-0e63-4a10-8ff6-3c561ae6a4d7" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AchievementTests" name="IncrementalProgress_Accumulates" />
+    </UnitTest>
+    <UnitTest name="EnemyHP_ScalesPerFloor" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a9915d26-6af2-8fe0-a2cd-83b781a07797">
+      <Execution id="e6d20af1-4ef1-437c-965a-0172f2c07395" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.EnemyScalingTests" name="EnemyHP_ScalesPerFloor" />
+    </UnitTest>
+    <UnitTest name="Production_DisablesDebug" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b8dc412a-8e1a-50e4-793a-61564f54b527">
+      <Execution id="2f9c9777-01be-44ef-a6fa-da24bb3e3785" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BetaPhaseTests" name="Production_DisablesDebug" />
+    </UnitTest>
+    <UnitTest name="Pool_DoesNotExceedMax" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="c754cfa5-4e38-9a87-dda0-ef53de5f2f71">
+      <Execution id="dfb2223b-0294-4907-a0b6-f8dd23fdfd81" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ObjectPoolTests" name="Pool_DoesNotExceedMax" />
+    </UnitTest>
+    <UnitTest name="MergeConflict_TakesMaxGold" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a847d8a5-903d-a04f-e626-fce4b44dd924">
+      <Execution id="54d70cf7-ab20-45cf-8b03-03b2f7d6343a" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CloudSaveTests" name="MergeConflict_TakesMaxGold" />
+    </UnitTest>
+    <UnitTest name="DifficultyLabel_Correct" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="611a3f11-d3a1-633e-c2c2-0173b1e25827">
+      <Execution id="51ca59a7-4da3-4074-a27c-924aa26e22be" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DifficultyTests" name="DifficultyLabel_Correct" />
+    </UnitTest>
+    <UnitTest name="CannotExceedDailyLimit" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="9d9bb8d2-3af2-d88f-edd3-a05527805cc9">
+      <Execution id="17838db7-2ca3-42e7-9545-7bbdfaf46aa8" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AdTests" name="CannotExceedDailyLimit" />
+    </UnitTest>
+    <UnitTest name="Register_Overwrites_Previous" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="56c6e69b-d23a-01e1-8fac-b8ff8c49824b">
+      <Execution id="abf6939f-8a54-4f84-b3ac-9aa71a3f93d0" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ServiceLocatorTests" name="Register_Overwrites_Previous" />
+    </UnitTest>
+    <UnitTest name="MaxLevel_CapsAt10" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="00238a7e-d4eb-bf4f-7f9f-72216336be61">
+      <Execution id="530ea98d-4f34-41d8-87d7-fef96f8ddfec" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.TownUpgradeTests" name="MaxLevel_CapsAt10" />
+    </UnitTest>
+    <UnitTest name="AllPlatforms_Defined" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="842eead9-6eea-f4dc-68c5-d995e926b065">
+      <Execution id="dce9cca3-60d0-40cd-b77d-842cd7012ac7" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PlatformAbstractionTests" name="AllPlatforms_Defined" />
+    </UnitTest>
+    <UnitTest name="QuestReward_GrantsGoldAndXP" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="c37ac938-4c51-e1f9-7a94-a49a646a105d">
+      <Execution id="fd9bfa9a-30aa-40a0-a088-61377fa7dc16" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.QuestTests" name="QuestReward_GrantsGoldAndXP" />
+    </UnitTest>
+    <UnitTest name="EditorPlatform_CreatesMocks" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="18371d06-c7cc-94dd-363c-b207e5fc8d5d">
+      <Execution id="2cbe8e02-1399-494b-821b-ffc7ae1e7a21" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PlatformAbstractionTests" name="EditorPlatform_CreatesMocks" />
+    </UnitTest>
+    <UnitTest name="BattlePassPurchase_Flow" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b8c76579-e758-ea85-2aa0-4fcdfda57133">
+      <Execution id="6cf3c580-135c-4743-bc91-c86fb768d918" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.MonetizationFlowIntegrationTests" name="BattlePassPurchase_Flow" />
+    </UnitTest>
+    <UnitTest name="EnemyDamage_ScalesPerFloor" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="0145851f-4ae6-d12b-a696-734b2957587e">
+      <Execution id="809c2334-e98e-4e72-b5d4-53e5d9223d47" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.EnemyScalingTests" name="EnemyDamage_ScalesPerFloor" />
+    </UnitTest>
+    <UnitTest name="Paused_To_MainMenu_IsValid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="cf91630f-5ddc-5716-3a69-d6cc2615ada7">
+      <Execution id="bae76284-2246-47a1-a7d9-89bcb70d0e19" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="Paused_To_MainMenu_IsValid" />
+    </UnitTest>
+    <UnitTest name="BossTime_ConvertedToMillis" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="584a3b2e-91ae-12eb-c924-cc86d8e27c92">
+      <Execution id="6739ebf7-c1a1-4080-b3d2-b502f501b368" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.LeaderboardTests" name="BossTime_ConvertedToMillis" />
+    </UnitTest>
+    <UnitTest name="Boot_To_Gameplay_IsInvalid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="020336b0-4452-4b12-96c0-010bcc02ba62">
+      <Execution id="2d4a4ba7-4425-4e1f-86c4-66d63619f9f5" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="Boot_To_Gameplay_IsInvalid" />
+    </UnitTest>
+    <UnitTest name="DailyCounter_ResetsOnNewDay" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="bbe02c0c-49a5-bdf9-d533-c3d3a33bec69">
+      <Execution id="c677a621-1163-4af4-92dc-73d72633a610" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AdTests" name="DailyCounter_ResetsOnNewDay" />
+    </UnitTest>
+    <UnitTest name="ProductLookup_FindsById" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="32607836-342a-adfc-8273-12ca0fe926f1">
+      <Execution id="3f81d8c2-9922-4d90-822e-9eb0d3dbb85f" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.IAPTests" name="ProductLookup_FindsById" />
+    </UnitTest>
+    <UnitTest name="AllHeroes_HaveAbilityCooldown" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="2bd290d1-0b4c-0df9-0beb-bc30485bc40a">
+      <Execution id="8967a2bf-9811-4579-a758-d63692cd93b1" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.HeroClassTests" name="AllHeroes_HaveAbilityCooldown" />
+    </UnitTest>
+    <UnitTest name="PowerUpFlow_SelectionToApplication" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="aafd38ba-462d-08d9-d977-1822e4963a26">
+      <Execution id="a25c063c-66e7-4977-87a7-72744e10368b" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RunFlowIntegrationTests" name="PowerUpFlow_SelectionToApplication" />
+    </UnitTest>
+    <UnitTest name="RunCompleted_HasRequiredFields" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="79ca12a7-8ca9-3f07-682b-82504d4e06d7">
+      <Execution id="3f86cbf5-d687-4db5-ab1d-1909c6c8864d" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AnalyticsTests" name="RunCompleted_HasRequiredFields" />
+    </UnitTest>
+    <UnitTest name="XP_LevelsUp" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="571099db-fc58-5e05-387b-7284655d0710">
+      <Execution id="016bc841-172d-46e1-8533-fdd0110e541a" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BattlePassTests" name="XP_LevelsUp" />
+    </UnitTest>
+    <UnitTest name="QuestProgress_Tracked" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="880399fc-c0e9-a88a-f6dd-d034316432a7">
+      <Execution id="4616e5dd-8e63-4a61-bada-87663cc2c710" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.QuestTests" name="QuestProgress_Tracked" />
+    </UnitTest>
+    <UnitTest name="DamagePopup_NormalDamage_HasCorrectScale" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="60f22635-3d65-36a8-a1e0-09bfceb22270">
+      <Execution id="ca42ebc7-fb93-4396-be48-130d20a58954" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CombatTests" name="DamagePopup_NormalDamage_HasCorrectScale" />
+    </UnitTest>
+    <UnitTest name="PlayerSegmentation_ClassifiesCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="cfd09791-8cba-90a0-207b-6cc645c94999">
+      <Execution id="8d598329-2c13-4c00-803e-63a1597bb6c3" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RevenueOptimizerTests" name="PlayerSegmentation_ClassifiesCorrectly" />
+    </UnitTest>
+    <UnitTest name="MultiplePowerUps_CombineCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="0653f516-7e6e-f9ec-77a9-cdaa1c3767ef">
+      <Execution id="2bf66d1b-b97e-4c18-a378-db06c0f2fabb" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PowerUpTests" name="MultiplePowerUps_CombineCorrectly" />
+    </UnitTest>
+    <UnitTest name="Internal_HasAllTestFeatures" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b92f2477-ca62-2280-2a83-343ace3d1c38">
+      <Execution id="59e097d5-7ef8-41ea-8f84-123cdbeccdf1" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BetaPhaseTests" name="Internal_HasAllTestFeatures" />
+    </UnitTest>
+    <UnitTest name="Boot_To_MainMenu_IsValid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a602ddf7-59b9-f649-5d50-509e50d08cc2">
+      <Execution id="78e5fbe3-f7be-43f2-a9f2-4ad59b1ae181" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="Boot_To_MainMenu_IsValid" />
+    </UnitTest>
+    <UnitTest name="Phase2_TriggersAt60Percent" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="d033191b-2eb0-9e3f-0cac-669e60f4fd74">
+      <Execution id="bc7508c2-80c7-4e89-9fa2-77737bbbc7a5" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BossPhaseTests" name="Phase2_TriggersAt60Percent" />
+    </UnitTest>
+    <UnitTest name="AverageFPS_CalculatedCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="02cdaa8f-87c6-6128-0028-faa9c55550cd">
+      <Execution id="5ede1351-9bf5-4063-9107-10af9f1067b2" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PerformanceMonitorTests" name="AverageFPS_CalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="Event_InactiveAfterEnd" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="ffef5240-c5bf-3064-640d-3e177bd649df">
+      <Execution id="b418d514-9f92-42c3-bd64-268c70611524" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.SeasonalEventTests" name="Event_InactiveAfterEnd" />
+    </UnitTest>
+    <UnitTest name="CompletedSteps_NotRepeated" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="ee93066b-8554-fc38-0a14-c79de984ab31">
+      <Execution id="792df36f-92be-42b7-b7e4-cb486db62496" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.OnboardingTests" name="CompletedSteps_NotRepeated" />
+    </UnitTest>
+    <UnitTest name="EventModifiers_Override" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a70536c2-0f63-ca0a-9098-c44a3c818b24">
+      <Execution id="9faf438b-488a-427b-a519-734df9c2ca75" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.SeasonalEventTests" name="EventModifiers_Override" />
+    </UnitTest>
+    <UnitTest name="EnemyCount_ScalesPerFloor_CappedAt15" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="892b5226-6f29-fe6d-219c-01437a158c7e">
+      <Execution id="17641d4e-7e4d-420c-8704-c8b242e88ecb" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.EnemyScalingTests" name="EnemyCount_ScalesPerFloor_CappedAt15" />
+    </UnitTest>
+    <UnitTest name="Breadcrumbs_CappedAt50" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="65ba7186-015a-b165-df08-d19234c28004">
+      <Execution id="3711c94d-8154-4fa2-8de4-a5e2863f5170" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CrashReporterTests" name="Breadcrumbs_CappedAt50" />
+    </UnitTest>
+    <UnitTest name="SaveLoad_RoundTrip" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="e900e277-45af-b02a-cf16-186b78b40e3b">
+      <Execution id="27471ada-7f08-48cb-86d0-fc2669116efd" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CloudSaveIntegrationTests" name="SaveLoad_RoundTrip" />
+    </UnitTest>
+    <UnitTest name="ScreenShake_Amplitude_ScalesWithDamage" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="08ab608a-811d-746c-9f75-b9bc1d4f892d">
+      <Execution id="a37dac86-6977-4136-94c7-df1b4c855a7d" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CombatTests" name="ScreenShake_Amplitude_ScalesWithDamage" />
+    </UnitTest>
+    <UnitTest name="ContentTypes_AllDefined" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="1d64d1c3-25cc-09a6-44e5-d7331982a523">
+      <Execution id="9890e1db-faea-4ff0-aeb2-a29b19c0e753" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ContentSchedulerTests" name="ContentTypes_AllDefined" />
+    </UnitTest>
+    <UnitTest name="CanPrestige_At50FloorsPerLevel" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="8eaa03a1-0ea3-d6a2-b74d-6ecc2de80c1f">
+      <Execution id="82615201-da48-4516-9862-f2615b0bc875" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PrestigeTests" name="CanPrestige_At50FloorsPerLevel" />
+    </UnitTest>
+    <UnitTest name="XPForLevel_ScalesExponentially" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="5496f37e-6c15-04ec-6819-8245be75a7f4">
+      <Execution id="5086cf41-ec16-4f46-8b7c-3e2f9a9b2bec" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BalanceConfigTests" name="XPForLevel_ScalesExponentially" />
+    </UnitTest>
+    <UnitTest name="RunCompletion_UpdatesAllSystems" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="184f2380-9f62-d612-4d4e-54eddf5f99ac">
+      <Execution id="309603b8-7d1f-4b3b-b945-a33cce23f4e2" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RunFlowIntegrationTests" name="RunCompletion_UpdatesAllSystems" />
+    </UnitTest>
+    <UnitTest name="Consumable_GrantsGems" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="661847b7-1b29-cd75-5ed3-30268e505fed">
+      <Execution id="9dbc1147-9a63-4eb7-bc67-250e1d5505c0" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.IAPTests" name="Consumable_GrantsGems" />
+    </UnitTest>
+    <UnitTest name="BossFloor_Every10th" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="7c4d5587-0c88-d5f8-616f-b0a53e11e0d3">
+      <Execution id="33b0ac45-4648-4180-a03c-c3b8cb870bf2" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.EnemyScalingTests" name="BossFloor_Every10th" />
+    </UnitTest>
+    <UnitTest name="BSP_GeneratesAtLeastTwoRooms" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="ee2938d1-af69-3d99-23f2-d42ee835f958">
+      <Execution id="e81c4a74-d182-4adb-8faa-9c437b048173" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BSPDungeonGeneratorTests" name="BSP_GeneratesAtLeastTwoRooms" />
+    </UnitTest>
+    <UnitTest name="CannotClaimTwice_SameDay" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="2468aade-10dc-0a65-9b0a-fc70c7e5b731">
+      <Execution id="7895fb65-dc6b-47fa-8622-b71b9bfe3890" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DailyLoginTests" name="CannotClaimTwice_SameDay" />
+    </UnitTest>
+    <UnitTest name="ARPU_CalculatedCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="57ca6444-b6bb-a4ca-986b-6ba56eecdabe">
+      <Execution id="4531e2be-c1d3-449b-9e87-0745f44433f5" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RevenueOptimizerTests" name="ARPU_CalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="AllStatesHaveAtLeastOneOutbound" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="67784d67-354e-b4d8-5610-ebc22ddcffe0">
+      <Execution id="22542dab-12f9-47f9-8fb2-73f1e7504543" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="AllStatesHaveAtLeastOneOutbound" />
+    </UnitTest>
+    <UnitTest name="CannotClaim_IncompleteQuest" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="52c9013c-8a86-1d69-add3-0e99b0eaaad5">
+      <Execution id="1abaeaa2-363b-471a-bbfd-ea573293fa2e" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.QuestTests" name="CannotClaim_IncompleteQuest" />
+    </UnitTest>
+    <UnitTest name="Milestones_CheckedCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="0a35203c-84cd-bbae-03f8-82ad304e5ad9">
+      <Execution id="1911715c-54e2-4075-8783-5ad5d4415bff" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RetentionTests" name="Milestones_CheckedCorrectly" />
+    </UnitTest>
+    <UnitTest name="Results_To_MainMenu_IsValid" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="cdcb0ccb-c13f-912c-ac09-46e6666fe7d7">
+      <Execution id="c3eab061-cf65-4246-8437-4b74f16fe48e" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="Results_To_MainMenu_IsValid" />
+    </UnitTest>
+    <UnitTest name="Phase3_TriggersAt30Percent" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="f6668d93-2503-9a81-2034-9ccbc0bab176">
+      <Execution id="cb7271a9-2166-4ba8-83e4-a321fe9d60f1" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BossPhaseTests" name="Phase3_TriggersAt30Percent" />
+    </UnitTest>
+    <UnitTest name="CannotUpgrade_InsufficientGold" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="1fb0f9ca-7120-b2ae-ee2d-494ead3440d4">
+      <Execution id="afdc1e25-a4de-4d58-8e29-efdb3cdcb35b" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.TownUpgradeTests" name="CannotUpgrade_InsufficientGold" />
+    </UnitTest>
+    <UnitTest name="TimeScale_IsReducedDuringSlowMo" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="da4dfff8-68bd-2e74-8413-c0722c6fd0f9">
+      <Execution id="0ee542f2-b91d-4c21-9236-0046aa5c12cd" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.SlowMotionTests" name="TimeScale_IsReducedDuringSlowMo" />
+    </UnitTest>
+    <UnitTest name="CooldownBetweenAds_Is60Seconds" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="a9d8df0f-a3ab-654e-08fb-345ab2dc92ea">
+      <Execution id="985931dd-ff15-401c-9acf-5c52143cc2d7" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.AdTests" name="CooldownBetweenAds_Is60Seconds" />
+    </UnitTest>
+    <UnitTest name="LevelBonus_IncreasesStats" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="be66538f-5a17-ed19-98dd-e434612d77f9">
+      <Execution id="14e1c900-adee-4611-93d5-58f140143f2a" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.HeroClassTests" name="LevelBonus_IncreasesStats" />
+    </UnitTest>
+    <UnitTest name="WeeklyCycle_WrapsAround" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="d17ee2d1-3cc1-e30b-2e91-5464ed47bee6">
+      <Execution id="40a0a0c8-ed22-49e4-a34d-bdc5e7002ae0" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.DailyLoginTests" name="WeeklyCycle_WrapsAround" />
+    </UnitTest>
+    <UnitTest name="FPSDrop_DetectedBelow45" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="31eeff95-c51f-62d8-2624-5aafe6b80859">
+      <Execution id="fc41c0ce-d4b6-4c51-9c14-1925b8f1a220" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PerformanceMonitorTests" name="FPSDrop_DetectedBelow45" />
+    </UnitTest>
+    <UnitTest name="D1Benchmark_Above35Percent" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="5d37a5aa-e124-a6b6-d174-7eee1c7e6bd4">
+      <Execution id="34adebab-d04d-4952-be85-cc497d5cedfc" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RetentionTests" name="D1Benchmark_Above35Percent" />
+    </UnitTest>
+    <UnitTest name="Subscription_ActivatesPremium" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="9cbf50a6-5cce-3d3c-98e1-338cbe61e178">
+      <Execution id="eaaf8dc8-0dd9-4f9c-8fef-d36c27482284" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.IAPTests" name="Subscription_ActivatesPremium" />
+    </UnitTest>
+    <UnitTest name="DefaultVariant_IsControl" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="10479670-f579-4988-8801-b402890b0dd2">
+      <Execution id="be0d860d-6294-4848-bc9b-b7a633b9d739" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ABTestTests" name="DefaultVariant_IsControl" />
+    </UnitTest>
+    <UnitTest name="SynergyBonus_Adds15Percent" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="da7fda26-f179-8803-a267-725ef6248c9e">
+      <Execution id="8cb2148d-e4c9-4c3a-85ea-74a02dd1226a" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PowerUpTests" name="SynergyBonus_Adds15Percent" />
+    </UnitTest>
+    <UnitTest name="Results_To_Loading_IsValid_ForPlayAgain" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="6ea11d8b-ebbe-3986-7179-00020a03b315">
+      <Execution id="8d12dec4-8bf5-4bd3-a5c6-dd05395b3584" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.GameStateTests" name="Results_To_Loading_IsValid_ForPlayAgain" />
+    </UnitTest>
+    <UnitTest name="RunsPerDay_CalculatedCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="094c53d0-498e-72cc-19cd-e45883b84204">
+      <Execution id="5557abd5-607a-4b8a-9eec-f6cdb430d03e" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RevenueOptimizerTests" name="RunsPerDay_CalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="StackedPowerUp_MultipliesCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="2f6a7b02-1cda-b1f9-d62c-c50bf0290491">
+      <Execution id="4e9820fb-3294-4584-9cd3-f6c994b15381" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.PowerUpTests" name="StackedPowerUp_MultipliesCorrectly" />
+    </UnitTest>
+    <UnitTest name="BSP_DifferentSeedsProduceDifferentLayouts" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="41347068-0b5c-c497-4c28-d2d0d97a6ad2">
+      <Execution id="8e658c69-bb0d-4261-9cc0-34a6ea0e0a40" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BSPDungeonGeneratorTests" name="BSP_DifferentSeedsProduceDifferentLayouts" />
+    </UnitTest>
+    <UnitTest name="ScaledEnemyHP_CalculatedCorrectly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="b26f94e2-c451-887d-ac29-c1c4cfd1eff1">
+      <Execution id="d7cc2873-5d16-4c52-ac50-5b27ebc0c4bc" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BalanceConfigTests" name="ScaledEnemyHP_CalculatedCorrectly" />
+    </UnitTest>
+    <UnitTest name="UpcomingContent_NotReleasedEarly" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="27a671c9-d37f-8779-00cc-bd7e05061779">
+      <Execution id="fe97fb75-33b5-4516-aeff-15b15c558f84" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.ContentSchedulerTests" name="UpcomingContent_NotReleasedEarly" />
+    </UnitTest>
+    <UnitTest name="WarriorHP_HigherThanArcherAndMage" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="1f421058-55db-4ae3-774f-bd5ce09c7913">
+      <Execution id="1be54af3-3048-4198-9f63-0d6cbd6d2c4c" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.BalanceConfigTests" name="WarriorHP_HigherThanArcherAndMage" />
+    </UnitTest>
+    <UnitTest name="PremiumFlag_MergesWithOR" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="89a2c5f8-b82d-7812-18db-ef992961246a">
+      <Execution id="09af7aa9-ed31-44f7-89c2-010a95f290c5" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.CloudSaveTests" name="PremiumFlag_MergesWithOR" />
+    </UnitTest>
+    <UnitTest name="D7Benchmark_Above15Percent" storage="/home/ubuntu/repos/pocket-dungeons/tests/pocketdungeons.tests/bin/debug/net8.0/pocketdungeons.tests.dll" id="651c7f06-3931-2e9f-7273-fbef53de7da5">
+      <Execution id="465ead48-ec7c-4999-b6b3-e806439fb702" />
+      <TestMethod codeBase="/home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll" adapterTypeName="executor://nunit3testexecutor/" className="PocketDungeons.Tests.RetentionTests" name="D7Benchmark_Above15Percent" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="ffef5240-c5bf-3064-640d-3e177bd649df" executionId="b418d514-9f92-42c3-bd64-268c70611524" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0653f516-7e6e-f9ec-77a9-cdaa1c3767ef" executionId="2bf66d1b-b97e-4c18-a378-db06c0f2fabb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c754cfa5-4e38-9a87-dda0-ef53de5f2f71" executionId="dfb2223b-0294-4907-a0b6-f8dd23fdfd81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="83305606-493c-e074-ecdc-965d65c52bd2" executionId="f8b5fd7f-b1ab-42f5-9f30-1f6f537d0acf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a4ce055a-e75d-88ec-bd1c-73ea5c30649d" executionId="14564d15-4328-4333-9454-b1c87f354e6c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="aafd38ba-462d-08d9-d977-1822e4963a26" executionId="a25c063c-66e7-4977-87a7-72744e10368b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65ba7186-015a-b165-df08-d19234c28004" executionId="3711c94d-8154-4fa2-8de4-a5e2863f5170" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="57ca6444-b6bb-a4ca-986b-6ba56eecdabe" executionId="4531e2be-c1d3-449b-9e87-0745f44433f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da7fda26-f179-8803-a267-725ef6248c9e" executionId="8cb2148d-e4c9-4c3a-85ea-74a02dd1226a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8b0fed7b-c292-7d66-bfe2-23f863e2fd97" executionId="259bc928-899d-4190-8bee-d9f6d8ddeb56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0fc307e5-6086-bcc8-253c-6f9b77cac75f" executionId="6776911f-969d-48ef-aabb-f1c86133f4d7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="65b1b1a2-6fbc-3f32-3ecf-0c99f1626293" executionId="19310f07-1c99-4fb4-a9e8-34cf069e8631" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9cbf50a6-5cce-3d3c-98e1-338cbe61e178" executionId="eaaf8dc8-0dd9-4f9c-8fef-d36c27482284" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d033191b-2eb0-9e3f-0cac-669e60f4fd74" executionId="bc7508c2-80c7-4e89-9fa2-77737bbbc7a5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="27a671c9-d37f-8779-00cc-bd7e05061779" executionId="fe97fb75-33b5-4516-aeff-15b15c558f84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="31eeff95-c51f-62d8-2624-5aafe6b80859" executionId="fc41c0ce-d4b6-4c51-9c14-1925b8f1a220" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6251d405-c247-8bc2-ceee-1c312b1cea9f" executionId="8aa88971-e786-4b59-8392-a7b97bd3e814" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="80a5e004-ff2c-1a1d-1dbd-ef426c203ff3" executionId="92c8ea9f-647e-408f-ac8d-22368f6052d2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8eaa03a1-0ea3-d6a2-b74d-6ecc2de80c1f" executionId="82615201-da48-4516-9862-f2615b0bc875" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b6643172-4d78-49c2-4c68-eebd7fc01e73" executionId="010dc2f9-acbd-43f4-9360-0240ad4d8f0c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b21e2969-50f6-36cc-9230-4598c51efd2c" executionId="561a84f0-a46f-4d11-9813-b9220431974c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b92f2477-ca62-2280-2a83-343ace3d1c38" executionId="59e097d5-7ef8-41ea-8f84-123cdbeccdf1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f40eb477-ef95-b365-5d72-3437259c8d48" executionId="386b528c-a07b-4116-9a62-0a6a59116007" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1fb0f9ca-7120-b2ae-ee2d-494ead3440d4" executionId="afdc1e25-a4de-4d58-8e29-efdb3cdcb35b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="51a30da0-3e42-d75e-48a0-008759ce7e5d" executionId="507b677b-6fb3-4fb5-bd34-1c142a8526bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b26f94e2-c451-887d-ac29-c1c4cfd1eff1" executionId="d7cc2873-5d16-4c52-ac50-5b27ebc0c4bc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1101da8-6d91-5d97-6ed9-eb5f14b0205d" executionId="67c777eb-b86a-4d06-b77a-4ed0468b9c98" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e696f921-c55c-7544-69c3-ebce4502e53e" executionId="4837c5ef-bb44-4788-a0e7-66dd36b1cd99" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1867c3fe-7a2b-9bfe-9deb-933297924c04" executionId="9c9c17fe-777c-49bd-baa0-1aee640c7685" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e900e277-45af-b02a-cf16-186b78b40e3b" executionId="27471ada-7f08-48cb-86d0-fc2669116efd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2f6a7b02-1cda-b1f9-d62c-c50bf0290491" executionId="4e9820fb-3294-4584-9cd3-f6c994b15381" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="60f22635-3d65-36a8-a1e0-09bfceb22270" executionId="ca42ebc7-fb93-4396-be48-130d20a58954" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9915d26-6af2-8fe0-a2cd-83b781a07797" executionId="e6d20af1-4ef1-437c-965a-0172f2c07395" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="892b5226-6f29-fe6d-219c-01437a158c7e" executionId="17641d4e-7e4d-420c-8704-c8b242e88ecb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52d854df-400e-d64f-b496-223e3d0b34af" executionId="d8110500-eac7-4757-befb-2042a132dd84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="21ce5884-6b93-5451-4621-3f2b3bd46484" executionId="f969fe3b-90f5-4b65-855b-15ff2910b3b8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5cab0677-0d45-a3d6-8790-f8f12be6de77" executionId="75a95b45-9d98-4ea5-8add-24b49030956d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a00d37fa-5268-f82e-1398-7e874c14afbc" executionId="ff4a4481-81c7-4b8d-ba2d-dca3e4e9f896" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="05ec2e63-a0d6-5167-b672-be4b339234b3" executionId="01cd8b4c-042e-4670-924e-b5856f3314fb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="04717305-318d-9e9e-05ba-d0f64c3d9d0e" executionId="d96c8afe-0e63-4a10-8ff6-3c561ae6a4d7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="584a3b2e-91ae-12eb-c924-cc86d8e27c92" executionId="6739ebf7-c1a1-4080-b3d2-b502f501b368" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="79ca12a7-8ca9-3f07-682b-82504d4e06d7" executionId="3f86cbf5-d687-4db5-ab1d-1909c6c8864d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9cf336ac-b554-75d7-40ed-d258dd049be9" executionId="26e6fcf9-57b5-47f4-9ac1-4b1396ecf81a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="69df764b-958d-eb1c-4d4e-70d02e0690a0" executionId="927c1c4f-808f-46fe-8ec5-76cb2f6ae173" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="677e7e72-e810-f725-1992-f24f41b70c25" executionId="dd21f33a-36cc-4ee2-8ac2-4ba485822423" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a70536c2-0f63-ca0a-9098-c44a3c818b24" executionId="9faf438b-488a-427b-a519-734df9c2ca75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ee93066b-8554-fc38-0a14-c79de984ab31" executionId="792df36f-92be-42b7-b7e4-cb486db62496" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f56e35e4-c0a0-beab-de20-58e0ab7c3cea" executionId="c1c25b9f-9d50-498c-a6d1-12e741538b1e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c8cd45c0-b84d-b2d6-e3a8-b5d42bb6ce4a" executionId="f0f1440e-a5b9-4e82-ac5a-90d8d560104e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3ca60ad6-f627-4501-74ba-52cc704b7d09" executionId="d545021b-17f8-4f4a-abdd-9cfce604384e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a9d8df0f-a3ab-654e-08fb-345ab2dc92ea" executionId="985931dd-ff15-401c-9acf-5c52143cc2d7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2f8ed0d5-2fc4-ff2c-4a13-8c3131630d61" executionId="084a6d9c-868b-475f-8a55-5b64c848b9ea" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="05edf9d0-d224-b048-e5b6-ffaea3487f3e" executionId="7ce2841c-09ae-41d9-a194-e3f263b31a55" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="278a6775-7716-3a6e-2c5f-74eade94ebef" executionId="e31f28d7-ffcc-4400-a509-543665c57d09" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="11249734-adbe-77f3-ad4d-697a9eaf3fe3" executionId="bca7b4f1-0f5f-438f-ab27-eece9d494f26" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18371d06-c7cc-94dd-363c-b207e5fc8d5d" executionId="2cbe8e02-1399-494b-821b-ffc7ae1e7a21" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d17ee2d1-3cc1-e30b-2e91-5464ed47bee6" executionId="40a0a0c8-ed22-49e4-a34d-bdc5e7002ae0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="82467ce4-c55b-b310-b72c-2dfd47c30a87" executionId="98ecd159-96c0-4ec8-a8f2-939cca05fd01" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2f42519-83b6-493a-cc8d-7db734c7cdf5" executionId="591a8354-8fc7-410d-92e7-6d94dfc917c9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="00238a7e-d4eb-bf4f-7f9f-72216336be61" executionId="530ea98d-4f34-41d8-87d7-fef96f8ddfec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9b3d42ed-c4a5-35be-b8cb-c622f427cdcb" executionId="47450ed4-f609-4c5a-9f4e-4e51c549d235" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4d0f67d-e2ff-1b10-f664-0c103c8f849a" executionId="96fbd6a8-7576-4960-856e-57539f1045b3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="020336b0-4452-4b12-96c0-010bcc02ba62" executionId="2d4a4ba7-4425-4e1f-86c4-66d63619f9f5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="094c53d0-498e-72cc-19cd-e45883b84204" executionId="5557abd5-607a-4b8a-9eec-f6cdb430d03e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="463baabc-5720-3943-4c5a-0efa6e0c65c2" executionId="6da06a7d-3572-4f62-807a-86b224c5a63e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="08ab608a-811d-746c-9f75-b9bc1d4f892d" executionId="a37dac86-6977-4136-94c7-df1b4c855a7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2c6db131-354f-ac23-d8e9-2528bf949bf7" executionId="de5b51dc-bf1f-4aa4-8d3f-f4b8b4907e02" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c4d5587-0c88-d5f8-616f-b0a53e11e0d3" executionId="33b0ac45-4648-4180-a03c-c3b8cb870bf2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32607836-342a-adfc-8273-12ca0fe926f1" executionId="3f81d8c2-9922-4d90-822e-9eb0d3dbb85f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="651c7f06-3931-2e9f-7273-fbef53de7da5" executionId="465ead48-ec7c-4999-b6b3-e806439fb702" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a602ddf7-59b9-f649-5d50-509e50d08cc2" executionId="78e5fbe3-f7be-43f2-a9f2-4ad59b1ae181" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="370add44-abdc-b330-5861-2dd897bf9f5f" executionId="6ee30f39-3295-4493-ae11-a9af3fb7b728" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5e595f4c-bad0-dc86-5c98-a4a6821a6e1f" executionId="730a6453-192e-419d-b6d1-ed1860a69de3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4ae8b5bd-eb53-0b2b-d4a2-ff6b24e5d4d2" executionId="83546d86-3db6-45fd-a0de-9efd2539dadf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d49bbbba-948a-fd49-09f0-13298d93f23b" executionId="ac661a2e-7b64-402d-b9d1-7be03479d0e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2bd290d1-0b4c-0df9-0beb-bc30485bc40a" executionId="8967a2bf-9811-4579-a758-d63692cd93b1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c99ea6c4-ad05-f046-0fd5-2c8614d42cff" executionId="1ee85652-2980-4079-86de-b21438a1b4ee" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1f421058-55db-4ae3-774f-bd5ce09c7913" executionId="1be54af3-3048-4198-9f63-0d6cbd6d2c4c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="10479670-f579-4988-8801-b402890b0dd2" executionId="be0d860d-6294-4848-bc9b-b7a633b9d739" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f9305de-e7bd-6014-3f92-b18eb98e4d19" executionId="2fe07e01-f75f-4476-828a-bd0b750457ac" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="be66538f-5a17-ed19-98dd-e434612d77f9" executionId="14e1c900-adee-4611-93d5-58f140143f2a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0b551706-5c18-e31f-9862-a284da3f1ff0" executionId="7269787f-c409-426f-b22b-f11d5fb2e435" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="92c13265-ce7d-c872-5bc7-6929a32e0232" executionId="f31c21b8-a0ab-4f95-98ae-88508a044f90" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41ac4936-801d-fa71-18c2-0f4533e01e17" executionId="5331d991-0d5b-4aeb-b3d1-4222bf94e742" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2468aade-10dc-0a65-9b0a-fc70c7e5b731" executionId="7895fb65-dc6b-47fa-8622-b71b9bfe3890" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c81a8868-2a3f-0872-80af-0b5bf0aa5aa4" executionId="0d82d1ed-d118-44f4-a468-b4fc62f8ba0c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b8dc412a-8e1a-50e4-793a-61564f54b527" executionId="2f9c9777-01be-44ef-a6fa-da24bb3e3785" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ee529c04-7f4f-8067-936f-250c60d99876" executionId="1259c603-b9de-41da-9373-aac93979111a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="56c6e69b-d23a-01e1-8fac-b8ff8c49824b" executionId="abf6939f-8a54-4f84-b3ac-9aa71a3f93d0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9a4f2968-0449-fb40-ff69-66fd486661fe" executionId="68cfb6e4-1481-44b1-beff-ede56adb3f75" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="f6668d93-2503-9a81-2034-9ccbc0bab176" executionId="cb7271a9-2166-4ba8-83e4-a321fe9d60f1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5496f37e-6c15-04ec-6819-8245be75a7f4" executionId="5086cf41-ec16-4f46-8b7c-3e2f9a9b2bec" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b0ba683c-4818-938e-b0c8-f0a9d0e37141" executionId="d57773d7-e09f-4f54-bff6-dfe2ac6e664c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a51eb12d-f1d9-fd10-cc5f-599ca469117c" executionId="ca0afc66-ee45-4ad1-abe9-57ac90116e76" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6ea11d8b-ebbe-3986-7179-00020a03b315" executionId="8d12dec4-8bf5-4bd3-a5c6-dd05395b3584" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf91630f-5ddc-5716-3a69-d6cc2615ada7" executionId="bae76284-2246-47a1-a7d9-89bcb70d0e19" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="37bcb034-540f-db28-7f41-81c161112cb9" executionId="52fe1b8e-b183-41e5-939f-3915ff11c8ed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="880399fc-c0e9-a88a-f6dd-d034316432a7" executionId="4616e5dd-8e63-4a61-bada-87663cc2c710" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="9d9bb8d2-3af2-d88f-edd3-a05527805cc9" executionId="17838db7-2ca3-42e7-9545-7bbdfaf46aa8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="842eead9-6eea-f4dc-68c5-d995e926b065" executionId="dce9cca3-60d0-40cd-b77d-842cd7012ac7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1d64d1c3-25cc-09a6-44e5-d7331982a523" executionId="9890e1db-faea-4ff0-aeb2-a29b19c0e753" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="6f951474-bdf2-a827-be4a-8a7d9fee9b63" executionId="3337349a-f00a-40f1-b02b-f3fe5539dc84" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="8c3ce4c6-3fcf-d499-ff71-26610a7810f1" executionId="0c9c6f4e-5e77-4662-a764-bef2637ea717" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a3ffc27-0ff3-1e10-f836-8d07966cf24c" executionId="cb5c45a7-5701-4700-b32d-d5a3d50857cb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a82dd73e-81ab-c2a5-7fcf-66c6709b3a28" executionId="6870dccb-80a5-4ab1-be32-7d2340aaacf6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ddc225ad-060e-9af6-3acc-06d70e753a0f" executionId="c322b2ab-7e7a-4930-a15d-78e748f8ce56" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="931e03c7-e273-89eb-4d5d-771635419d88" executionId="e3cecf92-86dc-4255-bf21-4c1633034dc1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="69a1dcf0-5d1a-9137-b1d9-bcc9bddb108a" executionId="a6b56a91-6dcd-4c5b-8657-d34abfdf40cc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ca61ce57-9eff-778e-564f-071ed85a94dd" executionId="e72b1fa7-72ca-44ae-8669-1e9b63689bb6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="78ff3260-091b-79b5-1b68-7556037197f1" executionId="a0d13698-417f-4573-b3b1-d0cf73d70531" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5d37a5aa-e124-a6b6-d174-7eee1c7e6bd4" executionId="34adebab-d04d-4952-be85-cc497d5cedfc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0a35203c-84cd-bbae-03f8-82ad304e5ad9" executionId="1911715c-54e2-4075-8783-5ad5d4415bff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="571099db-fc58-5e05-387b-7284655d0710" executionId="016bc841-172d-46e1-8533-fdd0110e541a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="52c9013c-8a86-1d69-add3-0e99b0eaaad5" executionId="1abaeaa2-363b-471a-bbfd-ea573293fa2e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="75eadaed-16ad-6ea8-b893-887c8a75571a" executionId="6709d5c3-e3b1-4cff-af4c-c443bebdee57" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5481f3b2-e26b-d1f0-d181-14eae0ccdb0e" executionId="598212d9-1bcb-4ae1-8d67-49c6f820b1e8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="184f2380-9f62-d612-4d4e-54eddf5f99ac" executionId="309603b8-7d1f-4b3b-b945-a33cce23f4e2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbe02c0c-49a5-bdf9-d533-c3d3a33bec69" executionId="c677a621-1163-4af4-92dc-73d72633a610" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a847d8a5-903d-a04f-e626-fce4b44dd924" executionId="54d70cf7-ab20-45cf-8b03-03b2f7d6343a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="33dd90c8-bcb9-4fa3-55a8-c48f8835aa93" executionId="aea55498-5596-4c0c-a83b-208885c6a044" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="611a3f11-d3a1-633e-c2c2-0173b1e25827" executionId="51ca59a7-4da3-4074-a27c-924aa26e22be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="2c5b694d-4de7-8f9c-fdee-b47a2af96236" executionId="4b2b7888-132c-4b6d-8764-018e26c721e1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="d7debe74-3e68-9158-4203-773e5f51c181" executionId="db30cf6f-ff73-4cb3-81ca-0b731f5996d3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0145851f-4ae6-d12b-a696-734b2957587e" executionId="809c2334-e98e-4e72-b5d4-53e5d9223d47" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e1f74018-ccaa-aab4-cd6b-873c3148485f" executionId="229b51e3-c5ea-4ca8-9da3-6cd41444c912" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e4b4477d-b7b6-686b-088e-3c90fda6174f" executionId="65f2baf8-ad30-45e5-9be8-0fae008c9923" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="da4dfff8-68bd-2e74-8413-c0722c6fd0f9" executionId="0ee542f2-b91d-4c21-9236-0046aa5c12cd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c37ac938-4c51-e1f9-7a94-a49a646a105d" executionId="fd9bfa9a-30aa-40a0-a088-61377fa7dc16" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="02cdaa8f-87c6-6128-0028-faa9c55550cd" executionId="5ede1351-9bf5-4063-9107-10af9f1067b2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b8c76579-e758-ea85-2aa0-4fcdfda57133" executionId="6cf3c580-135c-4743-bc91-c86fb768d918" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="94b71c50-610d-e1ab-4acb-5ff2f2f3dff8" executionId="5a15fafd-65c1-43b0-9a84-b80c14a6700d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="89a2c5f8-b82d-7812-18db-ef992961246a" executionId="09af7aa9-ed31-44f7-89c2-010a95f290c5" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ee2938d1-af69-3d99-23f2-d42ee835f958" executionId="e81c4a74-d182-4adb-8faa-9c437b048173" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="41347068-0b5c-c497-4c28-d2d0d97a6ad2" executionId="8e658c69-bb0d-4261-9cc0-34a6ea0e0a40" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="67784d67-354e-b4d8-5610-ebc22ddcffe0" executionId="22542dab-12f9-47f9-8fb2-73f1e7504543" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cfd09791-8cba-90a0-207b-6cc645c94999" executionId="8d598329-2c13-4c00-803e-63a1597bb6c3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bbb81b7c-346a-bf74-ff0f-d887f7f3121f" executionId="26ef8466-6081-4263-8136-42dd07a882b9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4b403ef0-2cf5-d68b-66a8-26ce8cef2bb2" executionId="a618a2a6-f579-4bc2-8a35-12f943012779" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cdcb0ccb-c13f-912c-ac09-46e6666fe7d7" executionId="c3eab061-cf65-4246-8437-4b74f16fe48e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="661847b7-1b29-cd75-5ed3-30268e505fed" executionId="9dbc1147-9a63-4eb7-bc67-250e1d5505c0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ec9cad78-3433-c78c-551f-ecbc6ba1eec3" executionId="5e165776-dfab-41e5-b405-acf3720f7204" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="141" executed="141" passed="141" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 1.0.0.0: Test execution started
+Running all tests in /home/ubuntu/repos/pocket-dungeons/Tests/PocketDungeons.Tests/bin/Debug/net8.0/PocketDungeons.Tests.dll
+   NUnit3TestExecutor discovered 141 of 141 NUnit test cases using Current Discovery mode, Non-Explicit run
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
