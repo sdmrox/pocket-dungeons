@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00000000000000000000000000000000, type: 3}
+  m_Name: Season1
+  m_EditorClassIdentifier: PocketDungeons.Meta.BattlePassData
+  seasonName: Season 1 - Rise of the Crypt King
+  seasonNumber: 1
+  price: 4.99
+  durationDays: 42
+  maxTier: 30
+  bonusTiers: 10
+  xpPerTier: 1000
+  catchUpXPMultiplier: 1.5
+  tiers:
+  - tier: 1
+    freeReward: {type: 0, amount: 100, itemId: gold_100}
+    premiumReward: {type: 1, amount: 50, itemId: gems_50}
+  - tier: 5
+    freeReward: {type: 0, amount: 250, itemId: gold_250}
+    premiumReward: {type: 2, amount: 1, itemId: skin_warrior_gold}
+  - tier: 10
+    freeReward: {type: 1, amount: 25, itemId: gems_25}
+    premiumReward: {type: 2, amount: 1, itemId: skin_archer_shadow}
+  - tier: 15
+    freeReward: {type: 0, amount: 500, itemId: gold_500}
+    premiumReward: {type: 3, amount: 1, itemId: pet_skeleton}
+  - tier: 20
+    freeReward: {type: 1, amount: 50, itemId: gems_50}
+    premiumReward: {type: 2, amount: 1, itemId: skin_mage_arcane}
+  - tier: 25
+    freeReward: {type: 0, amount: 1000, itemId: gold_1000}
+    premiumReward: {type: 4, amount: 1, itemId: effect_trail_fire}
+  - tier: 30
+    freeReward: {type: 1, amount: 100, itemId: gems_100}
+    premiumReward: {type: 2, amount: 1, itemId: skin_legendary_crypt}

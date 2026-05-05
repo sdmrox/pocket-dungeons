@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00000000000000000000000000000000, type: 3}
+  m_Name: BalanceConfig
+  m_EditorClassIdentifier: PocketDungeons.Gameplay.BalanceConfig
+  enemyHealthScalePerFloor: 0.15
+  enemyDamageScalePerFloor: 0.1
+  heroHPPerLevel: 10
+  heroDamagePerLevel: 2
+  synergyBonusPercent: 0.15
+  powerUpMaxStacksCommon: 3
+  powerUpMaxStacksRare: 2
+  powerUpMaxStacksEpic: 1
+  powerUpMaxStacksLegendary: 1
+  ghostSolidDuration: 1.5
+  ghostSolidAlpha: 0.9
+  ghostPhaseAlpha: 0.3
+  bomberExplodeRange: 1.5
+  bomberExplosionDamageMultiplier: 3
+  healerHealAmount: 5
+  healerHealCooldown: 2
+  healerHealRange: 4
+  healerFleeRange: 4
+  shieldKnightBlockAngle: 120
+  golemChargeDamageMultiplier: 2
+  bossPhase2Threshold: 0.6
+  bossPhase3Threshold: 0.3
+  goldPerFloorBase: 50
+  goldPerFloorScale: 1.1
+  xpPerEnemyKill: 10
+  xpPerBossKill: 100
+  xpPerFloorClear: 25
